@@ -1,0 +1,973 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A book for beginners, or, A help to young communicants that they may be fitted for the Holy communion, and receive it with profit. By S. Patrick, D.P.</title>
+            <author>Patrick, Simon, 1626-1707.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 108 KB of XML-encoded text transcribed from 122 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56605</idno>
+            <idno type="STC">Wing P751</idno>
+            <idno type="STC">ESTC R218754</idno>
+            <idno type="EEBO-CITATION">99830325</idno>
+            <idno type="PROQUEST">99830325</idno>
+            <idno type="VID">34776</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56605)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34776)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2035:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A book for beginners, or, A help to young communicants that they may be fitted for the Holy communion, and receive it with profit. By S. Patrick, D.P.</title>
+                  <author>Patrick, Simon, 1626-1707.</author>
+               </titleStmt>
+               <extent>[8], 210 [i.e. 230], [2] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Royston, bookseller to His most Sacred Majesty,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With an engraved half title reading: A help to communicants.</note>
+                  <note>Place of publication supplied by cataloger.</note>
+                  <note>Page 230 is misnumbered 210.</note>
+                  <note>With a final contents leaf.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lord's Supper --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:34776:1"/>
+            <p>
+               <figure>
+                  <p>A help <hi>to</hi> Communicants</p>
+                  <p>
+                     <hi>Ingredere, ut Proficias</hi>
+                  </p>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:34776:2"/>
+            <pb facs="tcp:34776:2"/>
+            <p>A BOOK FOR BEGINNERS, Or, a Help to Young Communicants; THAT They may be fitted for the Holy Communion, and receive it with profit.</p>
+            <p>By <hi>S. Patrick,</hi> D. <hi>P.</hi>
+            </p>
+            <p>Printed for <hi>R. Royſton,</hi> Book<g ref="char:EOLhyphen"/>ſeller to His moſt Sacred Majeſty. 1680.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:34776:3"/>
+            <pb facs="tcp:34776:3"/>
+            <head>To the READER.</head>
+            <p>THere is no Ad<g ref="char:EOLhyphen"/>vice more whole<g ref="char:EOLhyphen"/>ſome or more ne<g ref="char:EOLhyphen"/>ceſſary, then that of <hi>So<g ref="char:EOLhyphen"/>lomon,</hi> in the concluſion of his Meditations upon the Vanity of all things under the Sun; <hi>Remem<g ref="char:EOLhyphen"/>ber thy CREATOR in the days of thy youth.</hi> Which may ſerve in ſtead of a Preface to this little Book; eſpecially if I change one word, and
+<pb facs="tcp:34776:4"/>make it run thus, <hi>Re<g ref="char:EOLhyphen"/>member thy SAVI<g ref="char:EOLhyphen"/>OUR in the days of thy youth.</hi>
+            </p>
+            <p>Be ſenſible, that is, how much thou art indebted to Him; and do not forget it, but carry this always in thy mind, that as thou didſt receive thy being from Him, ſo thou art bought with a great price; and there<g ref="char:EOLhyphen"/>fore ought'ſt to glorify God with Body and Soul, which are His. <hi>1 Cor. VI. 20.</hi>
+            </p>
+            <p>And doe this betime, in thy beſt days; before
+<pb facs="tcp:34776:4"/>thou art tainted and cor<g ref="char:EOLhyphen"/>rupted by Vice and wic<g ref="char:EOLhyphen"/>kedneſs. Into which dan<g ref="char:EOLhyphen"/>gerous ways if thou art ſo unhappy as to have en<g ref="char:EOLhyphen"/>tred, be adviſed, and leave them preſently. Be<g ref="char:EOLhyphen"/>take thy ſelf without any delay to the ſervice of God: and let no buiſi<g ref="char:EOLhyphen"/>neſs, much leſs any vain pleaſure, hinder thee from acquainting thy ſelf with the Duty thou oweſt Him; or from performing it ſe<g ref="char:EOLhyphen"/>riouſly: Particularly that duty which He hath com<g ref="char:EOLhyphen"/>manded thee to <hi>doe in Remembrance of Him.</hi>
+            </p>
+            <p>
+               <pb facs="tcp:34776:5"/>
+The Nature, the Neceſſi<g ref="char:EOLhyphen"/>ty, and the Ends of which, together with the manner of doing it, I lay before thee in the following pages. Wherein I ſhall treat onely of ſuch things as are moſt eaſy, and obvious to every ca<g ref="char:EOLhyphen"/>pacity: hoping, by God's bleſſing, they will be uſe<g ref="char:EOLhyphen"/>full to ſuch as will ſet themſelves to conſider them.</p>
+            <p>They that would have larger Inſtructions and Helps, may find them in the <hi>Chriſtian Sacrifice.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="chapter">
+            <pb n="1" facs="tcp:34776:5"/>
+            <head>
+               <hi>CHAP. I.</hi> Of the Duty.</head>
+            <p>WHEN God's Miniſter de<g ref="char:EOLhyphen"/>clares, as he is required to do, that he intends on ſuch a day to adminiſter the moſt comfortable Sa<g ref="char:EOLhyphen"/>crament of <hi>Chriſt</hi>'s Bo<g ref="char:EOLhyphen"/>dy and Bloud; and in<g ref="char:EOLhyphen"/>vites you to it, beſee<g ref="char:EOLhyphen"/>ching
+<pb n="2" facs="tcp:34776:6"/>you to diſpoſe your ſelves religiouſly and devoutly for it: you muſt conſider, that it is your duty to prepare your ſelves, to come and partake of ſo great a Bleſſing; and not to think it enough that you have been preſent at Divine Service, and heard the Sermon, and then may turn your back on the Table of the Lord. Which is a very great diſreſpect to Him, and forgetfulneſs of Him, and cannot be excuſed ſo eaſily, as mens
+<pb n="3" facs="tcp:34776:6"/>naughty hearts incline them to believe. For though God's Goodneſs. is ſuch, that He prefers works of Mercy to your Neighbours, before Sa<g ref="char:EOLhyphen"/>crifice to Himſelf, when one of them muſt be o<g ref="char:EOLhyphen"/>mitted: yet He doth not make the ſame allow<g ref="char:EOLhyphen"/>ance for your Worldly buiſineſs, (which well may be let alone till another time;) much leſs for your vain Plea<g ref="char:EOLhyphen"/>ſures or Recreations, which never ought to hinder or put by this or any other holy Duty
+<pb n="4" facs="tcp:34776:7"/>in the ſeaſon proper for it.</p>
+            <p>Come therefore, as oft as you are invited; and when God's Mini<g ref="char:EOLhyphen"/>ſter, after Sermon en<g ref="char:EOLhyphen"/>ded, goes up to the Ho<g ref="char:EOLhyphen"/>ly Table to prepare this Heavenly food for you, (that is, to conſecrate Bread broken and Wine poured out, that it may repreſent the Death of <hi>Chriſt</hi> to you; and to give it you, ſaying, <hi>Take, eat, and drink this in remembrance of Chriſt</hi>) do you ſtay in God's Houſe, and draw
+<pb n="5" facs="tcp:34776:7"/>near unto his Table, and thankfully receive it from him, for that end for which he gives it, in commemoration of <hi>Chriſt</hi>'s Death and Paſſion upon the Croſs for your ſake.</p>
+            <p>It is the duty of God's Miniſter, to ſet the Bread and Wine apart, to preſent them unto God, to break the one and pour out the other, to bleſs them, and to give them unto you: And then it is your duty, to look upon this Bread and
+<pb n="6" facs="tcp:34776:8"/>Wine, thus bleſſed, as repreſenting <hi>Chriſt</hi> un<g ref="char:EOLhyphen"/>to you; and according<g ref="char:EOLhyphen"/>ly to receive them, not as mere Bread and Wine, but as things de<g ref="char:EOLhyphen"/>puted by <hi>Chriſt</hi> to be in ſtead of His Body and Bloud, and to commu<g ref="char:EOLhyphen"/>nicate them to worthy Receivers.</p>
+         </div>
+         <div n="2" type="chapter">
+            <pb n="7" facs="tcp:34776:8"/>
+            <head>
+               <hi>CHAP. II.</hi> Of the Neceſſity of this Duty.</head>
+            <p>TO doe thus you are ingaged,</p>
+            <p>
+               <hi>Firſt,</hi> by the ex<g ref="char:EOLhyphen"/>preſs Commandment of our Lord <hi>Chriſt;</hi> which you find four times re<g ref="char:EOLhyphen"/>corded in the New Te<g ref="char:EOLhyphen"/>ſtament: by the three firſt Evangeliſts, Saint <hi>Matthew,</hi> XXVI. 26, 27. Saint <hi>Mark,</hi> XIV. 22, 23. Saint <hi>Luke,</hi> XXII. 19, 20; and by Saint <hi>Paul,</hi> in
+<pb n="8" facs="tcp:34776:9"/>his firſt Epiſtle to the <hi>Corinthians</hi> XI. 23, 24, 25. All which places, eſpecially the laſt, you will doe well to reade ſeriouſly. And then con<g ref="char:EOLhyphen"/>ſider,</p>
+            <p>
+               <hi>Secondly,</hi> that there is the greater regard to be had to this Com<g ref="char:EOLhyphen"/>mandment, <hi>[Doe this in remembrance of me,]</hi> which Saint <hi>Paul</hi> ſaith he received of the Lord, becauſe it was his laſt and dying Command<g ref="char:EOLhyphen"/>ment, in the night when He was betrayed, juſt before the day of his
+<pb n="9" facs="tcp:34776:9"/>Paſſion. We are wont, in other caſes, to be in<g ref="char:EOLhyphen"/>clined to remember, and carefully perform the laſt deſire of a dy<g ref="char:EOLhyphen"/>ing Friend: and there<g ref="char:EOLhyphen"/>fore what other ac<g ref="char:EOLhyphen"/>count can we give of it, if we live in a neg<g ref="char:EOLhyphen"/>lect of this Duty, ſo ſolemnly enjoyned, but that we are ſtrangers, or, at beſt, very cold in our love to Him? which you had need to quicken, becauſe,</p>
+            <p>
+               <hi>Thirdly,</hi> your care in this Duty will be a means to make you ob<g ref="char:EOLhyphen"/>ſerve
+<pb n="10" facs="tcp:34776:10"/>the reſt of his Commandments bet<g ref="char:EOLhyphen"/>ter; which now, alas! are little regarded, be<g ref="char:EOLhyphen"/>cauſe little or no regard is had to this laſt Com<g ref="char:EOLhyphen"/>mandment; which our Lord ſeems to have ad<g ref="char:EOLhyphen"/>ded, when He left the world, for the ſecurity of all the other that He had delivered before. For the doing this hath a mighty power in it to ſtir up the love of <hi>Chriſt</hi> in our hearts. And <hi>the love of Chriſt conſtraineth us,</hi> (as S. <hi>Paul</hi> teaches, 2 <hi>Cor.</hi>
+               <pb n="11" facs="tcp:34776:10"/>V. 14, 15.) <hi>becauſe we thus judge, that if one died for all, then were all dead: And that He died for all, that they which live, ſhould not henceforth live unto themſelves, but unto Him that died for them, and roſe again.</hi> Doe <hi>this</hi> therefore in remem<g ref="char:EOLhyphen"/>brance of Him, which is ſuch an efficacious means to make you al<g ref="char:EOLhyphen"/>ways doe well. Yea, more then this,</p>
+            <p>
+               <hi>Laſtly,</hi> it will be a means to make you ob<g ref="char:EOLhyphen"/>ſerve his Command<g ref="char:EOLhyphen"/>ments
+<pb n="12" facs="tcp:34776:11"/>
+               <hi>with love and delight:</hi> which if they be wanting, your Obe<g ref="char:EOLhyphen"/>dience will be little worth. For without <hi>Love,</hi> all that you doe will not be acceptable to <hi>Chriſt;</hi> and unleſs you <hi>delight</hi> in what you doe, it will not be ac<g ref="char:EOLhyphen"/>ceptable to your ſelves. But neither of theſe will be wanting, if you re<g ref="char:EOLhyphen"/>ligiouſly frequent this Holy Sacrament; where He is repreſented to you as deſirous to ſave you, though it were by dying for you; ſaying,
+<pb n="13" facs="tcp:34776:11"/>when this was firſt pro<g ref="char:EOLhyphen"/>pounded to Him, <hi>Lo, I come, I delight to doe thy will, O God.</hi> How can you then refrain, when you think of this, from expreſſing the ſame affection and the ſame joy; when it is ſo much eaſier for you to doe God's will, then it was for Him to ſuffer ſuch things as he did, in obedience to it.</p>
+         </div>
+         <div n="3" type="chapter">
+            <pb n="14" facs="tcp:34776:12"/>
+            <head>
+               <hi>CHAP. III.</hi> Of the Ends for which it was inſtituted.</head>
+            <p>YOU will be the more inclined to this, when you conſi<g ref="char:EOLhyphen"/>der the Ends for which this Commemoration of <hi>Chriſt</hi>'s Death was or<g ref="char:EOLhyphen"/>dained. Which were ſuch as theſe.</p>
+            <p>
+               <hi>Firſt,</hi> to profeſs that you are Chriſtians, and believe that Religion which <hi>Chriſt</hi> hath ſealed by his Bloud, to be the
+<pb n="15" facs="tcp:34776:12"/>true and onely way to Happineſs; and that you mean to continue in it, whatſoever it coſts you, though it ſhould ingage you, that is, to follow Him to his Croſs.</p>
+            <p>
+               <hi>Secondly,</hi> to give thanks to God the <hi>Fa<g ref="char:EOLhyphen"/>ther,</hi> for ſending his onely begotten Son in<g ref="char:EOLhyphen"/>to the world, to be the Propitiation for our Sins:</p>
+            <p>And to God the <hi>Son,</hi> our Bleſſed Saviour <hi>Je<g ref="char:EOLhyphen"/>ſus Chriſt,</hi> for humbling himſelf ſo low, as to
+<pb n="16" facs="tcp:34776:13"/>die the death of the Croſs; where <hi>He offe<g ref="char:EOLhyphen"/>red his own Body, to put away our ſins by the Sa<g ref="char:EOLhyphen"/>crifice of Himſelf:</hi>
+            </p>
+            <p>And to God the <hi>Holy Ghoſt,</hi> who hath brought us glad tidings from Heaven, ſince our Saviour's aſcenſion thi<g ref="char:EOLhyphen"/>ther, that having <hi>pur<g ref="char:EOLhyphen"/>ged our ſins by Himſelf, He ſate down on the right hand of the Majeſty on high;</hi> where He lives for evermore, and is mindfull of us and of his Promiſes, which He will certainly fulfill, as
+<pb n="17" facs="tcp:34776:13"/>we ſee by theſe Pledges He hath left us of his endleſs Love. And therefore,</p>
+            <p>
+               <hi>Thirdly,</hi> you bind your ſelves, by the re<g ref="char:EOLhyphen"/>membrance of theſe things, to be faithfull to Him; and to keep that Holy Covenant, wherein you are ſo<g ref="char:EOLhyphen"/>lemnly tied to be whol<g ref="char:EOLhyphen"/>ly His. For as the ve<g ref="char:EOLhyphen"/>ry coming to his Table, naturally ſignifies you are of his Family, and belong to Him: ſo be<g ref="char:EOLhyphen"/>ing there ſo kindly en<g ref="char:EOLhyphen"/>tertained by Him, you
+<pb n="18" facs="tcp:34776:14"/>ſtand bound to behave your ſelves as his Ser<g ref="char:EOLhyphen"/>vants, or rather Friends; and engage ſo to doe. Now ye are his Friends, if you comply with his will in all other things, as well as in this of commemorating his dy<g ref="char:EOLhyphen"/>ing Love for your ſake. So He himſelf tells his Apoſtles, in thoſe me<g ref="char:EOLhyphen"/>morable words, XV. <hi>Joh.</hi> 13, 14. where He re<g ref="char:EOLhyphen"/>preſents to them, in what conſiſted the greatneſs of his Love, and the ſincerity of theirs. <hi>Greater love hath
+<pb n="19" facs="tcp:34776:14"/>no man then this, that a man lay down his life for his Friends. Ye are my Friends, if ye doe whatſoever I command you.</hi> For,</p>
+            <p>
+               <hi>Laſtly,</hi> being thus of the number of the Faithfull, you have, in this Holy Sacrament, Communion with <hi>Chriſt</hi> in his Death and Paſ<g ref="char:EOLhyphen"/>ſion, and in the Merits of them. For though the things you receive be <hi>in themſelves</hi> but Bread and Wine; yet <hi>by a Divine and ſpiritu<g ref="char:EOLhyphen"/>al grave</hi> they become
+<pb n="20" facs="tcp:34776:15"/>the Body and Bloud of <hi>Chriſt</hi> to the Faithfull, who are thereby made partakers of all the Be<g ref="char:EOLhyphen"/>nefits which He pur<g ref="char:EOLhyphen"/>chaſed, by his Sacrifice which He made of Him<g ref="char:EOLhyphen"/>ſelf for our Sins. Thus one of the Prayers af<g ref="char:EOLhyphen"/>ter the Communion ex<g ref="char:EOLhyphen"/>cellently inſtructs you, that God <q>vouchſafes to feed thoſe, who duly receive theſe holy My<g ref="char:EOLhyphen"/>ſteries, with the <hi>ſpiri<g ref="char:EOLhyphen"/>tual food</hi> of the moſt precious Body and Bloud of his Son, our Saviour <hi>Jeſus Chriſt;</hi>
+                  <pb n="21" facs="tcp:34776:15"/>and doth aſſure you thereby of his favour and goodneſs; and that you are very Members incorporate in the myſtical Body of his Son, which is the bleſſed Company of all Faithfull peo<g ref="char:EOLhyphen"/>ple; and are alſo Heirs, through hope, of his everlaſting Kingdom, by the me<g ref="char:EOLhyphen"/>rits of the moſt pre<g ref="char:EOLhyphen"/>cious Death and Paſ<g ref="char:EOLhyphen"/>ſion of his dear Son.</q>
+            </p>
+            <p>I need not adde that, by doing this in remem<g ref="char:EOLhyphen"/>brance of Him, you
+<pb n="22" facs="tcp:34776:16"/>have Communion with all your Chriſtian Bre<g ref="char:EOLhyphen"/>thren, (for it is already expreſſed;) and that you beg his gracious aſ<g ref="char:EOLhyphen"/>ſiſtence, that you may continue (as it follows in the Prayer now men<g ref="char:EOLhyphen"/>tioned) in this holy Fellowſhip, and doe all ſuch good works as He hath prepared for us to walk in: for this holy action being <hi>a Sacrifice of praiſe and thanksgi<g ref="char:EOLhyphen"/>ving,</hi> (as it is in the Prayer going before,) wherein <hi>Chriſt</hi>'s Sacri<g ref="char:EOLhyphen"/>fice is commemorated;
+<pb n="23" facs="tcp:34776:16"/>it is in its own nature the moſt powerfull Prayer (as all Sacrifi<g ref="char:EOLhyphen"/>ces were (1 <hi>Sam.</hi> XIII. 12.) more powerfull then any other can be) to ſupplicate for, and to impetrate (that is, obtain) the Divine Bleſſing upon us.</p>
+         </div>
+         <div n="4" type="chapter">
+            <head>
+               <hi>CHAP. IV.</hi> Of Preparation for it.</head>
+            <p>THIS may ſuffice, one would think, to excite all thoſe who
+<pb n="24" facs="tcp:34776:17"/>have any care of their future Salvation, or preſent ſatisfacion, to make it their buiſineſs to prepare themſelves, to be worthy Receivers of ſuch great Benefits.</p>
+            <p>And that is not hard to doe.</p>
+            <p>For, having learn'd your <hi>Catechiſm,</hi> or the ſhort <hi>Inſtruction</hi> in the Common-Prayer-Book, to be learn'd by every perſon that is baptized; and then ſeriouſly con<g ref="char:EOLhyphen"/>ſidered the Promiſe that was made at your Bap<g ref="char:EOLhyphen"/>tiſm in your name,
+<pb n="25" facs="tcp:34776:17"/>which is there explai<g ref="char:EOLhyphen"/>ned: you ſhould, in the next place, take the firſt opportunity to have the benefit of <hi>Confirmation.</hi> Wherein you both openly renew the ſolemn Promiſe and Vow made in your name at your Baptiſm, ratifying and confirm<g ref="char:EOLhyphen"/>ing the ſame in your own perſon, and ac<g ref="char:EOLhyphen"/>knowledging your ſelf bound to believe and doe all thoſe things which your Godfathers and Godmothers then undertook for you;
+<pb n="26" facs="tcp:34776:18"/>and alſo, by the Lay<g ref="char:EOLhyphen"/>ing on of hands, have more of the Divine Grace imparted to you, to confirm and ſtrengthen you in your Chriſtian reſolution, that you may continue his for ever.</p>
+            <p>After this you may, without any ſcruple, look upon your ſelf as having a right to the Sacrament of <hi>Chriſt</hi>'s Body and Bloud. And the beſt Preparation to it will be,</p>
+            <p n="1">I. To endeavour faithfully to live ac<g ref="char:EOLhyphen"/>cording
+<pb n="27" facs="tcp:34776:18"/>to your Bap<g ref="char:EOLhyphen"/>tiſmal Vow. And for that end, to call to mind every day how ſolemnly you did ſuch a time, in the preſence of God and ſuch a Con<g ref="char:EOLhyphen"/>gregation, ratify and confirm that Vow; and alſo promiſed that, by God's grace, you would always labour to ob<g ref="char:EOLhyphen"/>ſerve ſuch things as by your own confeſſion you have, aſſented un<g ref="char:EOLhyphen"/>to.</p>
+            <p>They are theſe <hi>three. Firſt,</hi> 
+               <q>that you ſhould renounce the Devil
+<pb n="28" facs="tcp:34776:19"/>and all his works, the pomps and vanities of this wicked world, with all covetous de<g ref="char:EOLhyphen"/>ſires of the ſame, and the ſinfull luſts of the fleſh; ſo that you will not follow, nor be led by them. <hi>Secondly,</hi> that you ſhould be<g ref="char:EOLhyphen"/>lieve all the Articles of the Chriſtian Faith. And <hi>thirdly,</hi> that you ſhould keep God's ho<g ref="char:EOLhyphen"/>ly will and Command<g ref="char:EOLhyphen"/>ments, and walk in the ſame all the days of your life.</q>
+            </p>
+            <p n="2">II. Now thoſe Com<g ref="char:EOLhyphen"/>mandments
+<pb n="29" facs="tcp:34776:19"/>which you have promiſed to keep, you are taught after<g ref="char:EOLhyphen"/>ward contain <hi>your Du<g ref="char:EOLhyphen"/>ty towards God,</hi> and <hi>your Duty towards your Neighbour.</hi>
+            </p>
+            <p>Your Duty towards God, you are inſtruc<g ref="char:EOLhyphen"/>ted, is this: <hi>To believe in Him, to fear Him, to love Him with all my heart, with all my mind, with all my ſoul, and with all my ſtrength; to worſhip Him, to give Him thanks, to put my whole truſt in Him, to call upon Him, to honour his holy
+<pb n="30" facs="tcp:34776:20"/>Name and his Word, and to ſerve him truly all the days of my life.</hi>
+            </p>
+            <p>Then follows your Duty towards your Neighbour, in theſe words, as you your ſelf are taught to confeſs; <hi>My Duty towards my Neighbour is, to love him as my ſelf, ſo doe to all men as I would they ſhould doe unto me: to love, honour and ſuccour my father and mother; to honour and obey the King, and all that are put in authority under him; to ſubmit my ſelf
+<pb n="31" facs="tcp:34776:20"/>to all my Governours, Teachers, ſpiritual Pa<g ref="char:EOLhyphen"/>ſtours, and Maſters; to order my ſelf lowly and reverently to all my bet<g ref="char:EOLhyphen"/>ters; to hurt no body by word or deed; to be true and juſt in all my dealing; to bear no ma<g ref="char:EOLhyphen"/>lice nor hatred in my heart; to keep my hands from picking and ſtea<g ref="char:EOLhyphen"/>ling, and my tongue from evil ſpeaking, lying and ſlandering; to keep my body in temperance, ſo<g ref="char:EOLhyphen"/>berneſs, and chaſtity; not to covet nor deſire other mens goods, but to
+<pb n="32" facs="tcp:34776:21"/>learn and labour truly to get mine own living, and to doe my duty in that ſtate of life unto which it ſhall pleaſe God to call me.</hi>
+            </p>
+            <p>All theſe things you promiſed, with your own mouth, before God and his People, (when you was con<g ref="char:EOLhyphen"/>firmed) that you would be carefull to obſerve: and muſt therefore make this the conſtant Rule of your life; and call upon God, by di<g ref="char:EOLhyphen"/>ligent Prayer, for his ſpeciall Graces, without
+<pb n="33" facs="tcp:34776:21"/>which you will not be able to ſerve Him.</p>
+            <p>Which if you doe ſincerely, then,</p>
+            <p n="3">III. I would adviſe you, every evening, before you go to ſleep, to take ſome time to think how well you have kept your Reſo<g ref="char:EOLhyphen"/>lution, and obſerved this Rule: And where you find you have faln ſhort of it, or done contrary to it, to make a new Reſolution to be more carefull the next day. And if you be able to ſet down in
+<pb n="34" facs="tcp:34776:22"/>writing thoſe Negligen<g ref="char:EOLhyphen"/>ces, or breaches of your Covenant with God, when you take notice of them; you will have the leſs to doe when the opportunity of com<g ref="char:EOLhyphen"/>municating approach<g ref="char:EOLhyphen"/>eth. For then,</p>
+            <p n="4">IV. <hi>Laſtly,</hi> you can with much eaſe exa<g ref="char:EOLhyphen"/>mine your ſelves before the Communion, and have a full account of your life and converſa<g ref="char:EOLhyphen"/>tion ready at hand. About which you will be lamentably puzzled, and long in drawing it
+<pb n="35" facs="tcp:34776:22"/>up, if you do not con<g ref="char:EOLhyphen"/>ſtantly make ſome ob<g ref="char:EOLhyphen"/>ſervation how things go with you: but in this Method ſhall be able preſently, and without any perplexity, to un<g ref="char:EOLhyphen"/>derſtand certainly and clearly in what caſe you are. And ſo you have nothing farther to doe, by way of Preparation to the Sacrament, but onely, <hi>firſt,</hi> ſorrow<g ref="char:EOLhyphen"/>fully to bewail your Sinfulneſs, and to con<g ref="char:EOLhyphen"/>feſs your ſelves to Al<g ref="char:EOLhyphen"/>mighty God: and that, <hi>ſecondly,</hi> with a full pur<g ref="char:EOLhyphen"/>poſe
+<pb n="36" facs="tcp:34776:23"/>of Amendment of life, and of greater di<g ref="char:EOLhyphen"/>ligence and watchful<g ref="char:EOLhyphen"/>neſs hereafter; eſpeci<g ref="char:EOLhyphen"/>ally in thoſe particulars wherein you have miſ<g ref="char:EOLhyphen"/>carried. (For ſorrow<g ref="char:EOLhyphen"/>full Confeſſion and Af<g ref="char:EOLhyphen"/>fliction of ſpirit for your Sins, is not ſuffi<g ref="char:EOLhyphen"/>cient; but muſt end in this unfeigned Reſolu<g ref="char:EOLhyphen"/>tion.) And if you find, <hi>thirdly,</hi> that your Offences are not onely againſt God, but alſo againſt your Neigh<g ref="char:EOLhyphen"/>bours; then (as you are directed in the <hi>Com<g ref="char:EOLhyphen"/>munion-Service</hi>)
+<pb n="37" facs="tcp:34776:23"/>to <hi>re<g ref="char:EOLhyphen"/>concile your ſelves unto them: Being ready to make reſtitution and ſa<g ref="char:EOLhyphen"/>tisfaction, according to the utmoſt of your pow<g ref="char:EOLhyphen"/>ers, for all injuries and wrongs done by you to any other; and being ready likewiſe to forgive others that have offended you, as ye would have forgiveneſs of your offen<g ref="char:EOLhyphen"/>ces at God's hand.</hi>
+            </p>
+            <p>When all this is done, then you ought not to diſcourage your ſelves with a fancy of your Unworthineſs to
+<pb n="38" facs="tcp:34776:24"/>partake of that Holy Table to which you are invited. For you will always be unworthy in the ſtricteſt ſenſe of the word: but are really worthy in God's ac<g ref="char:EOLhyphen"/>count, when you are thus diſpoſed; and ſen<g ref="char:EOLhyphen"/>ſible, at the beſt, of your unworthineſs of ſuch great Bleſſings, as God, of his goodneſs, is deſirous to beſtow upon you.</p>
+         </div>
+         <div n="5" type="chapter">
+            <pb n="39" facs="tcp:34776:24"/>
+            <head>
+               <hi>CHAP. V.</hi> A Prayer for that mor<g ref="char:EOLhyphen"/>ning when you intend to receive. <hi>Which may be uſed any time before.</hi>
+            </head>
+            <p>
+               <hi>BEſides thoſe uſuall Prayers, wherein you conſtantly recom<g ref="char:EOLhyphen"/>mend your ſelf to God, and give him thanks for his daily be<g ref="char:EOLhyphen"/>nefits: it will be fit to make a particular appli<g ref="char:EOLhyphen"/>cation of your ſelf to Him, for his gracious
+<pb n="40" facs="tcp:34776:25"/>aſſiſtence and his bleſ<g ref="char:EOLhyphen"/>ſing upon you in that holy Duty, after this manner.</hi>
+            </p>
+            <p>O Lord, I moſt hum<g ref="char:EOLhyphen"/>bly abaſe my ſelf before Thee, confeſſing that I am unworthy of any of thoſe mercies which I en<g ref="char:EOLhyphen"/>joy, in common, with the reſt of thy Creatures. For I have too much forgotten Thee my Crea<g ref="char:EOLhyphen"/>tour, and <hi>Jeſus Chriſt</hi> my Redeemer; whom I have many ways offen<g ref="char:EOLhyphen"/>ded, either through ig<g ref="char:EOLhyphen"/>norance, or negligence,
+<pb n="41" facs="tcp:34776:25"/>or wilfull ſins. <hi>[Here mention the particulars out of your daily ob<g ref="char:EOLhyphen"/>ſervations.]</hi>
+            </p>
+            <p>And yet, ſo great is thy Goodneſs, Thou art plea<g ref="char:EOLhyphen"/>ſed to give me an opportu<g ref="char:EOLhyphen"/>nity to partake of thy ex<g ref="char:EOLhyphen"/>traordinary love and kindneſs in thy dear Son, the Lord <hi>Jeſus.</hi> For I am invited by his Miniſter, to come and feaſt with Him at his Table, by a thankfull Commemoration of the offering He made, of his own Body and Bloud, upon the Croſs for us.</p>
+            <p>And I am very deſi<g ref="char:EOLhyphen"/>rous
+<pb n="42" facs="tcp:34776:26"/>to go, if Thou wilt but be pleaſed graciouſly to pardon all my paſt of<g ref="char:EOLhyphen"/>fences, either againſt Thee, or againſt my Neighbour; and to ac<g ref="char:EOLhyphen"/>cept of my hearty ſorrow for them, and unfeigned reſolution to doe my en<g ref="char:EOLhyphen"/>deavour to amend them.</p>
+            <p>O be mercifull unto me, be mercifull unto me, I moſt humbly be<g ref="char:EOLhyphen"/>ſeech Thee, for the ſake of <hi>Jeſus Chriſt</hi> who died for me. And though I am unworthy ſo much as, at any time, to approach into thy preſence; yet do
+<pb n="43" facs="tcp:34776:26"/>not reject me now, but permit me to come, even unto thy holy Table.</p>
+            <p>For which if I am in any meaſure prepared, it is to be aſcribed to thy grace, which hath wrought ſuch good diſpoſitions in me; and therefore will, I hope, ſtill ſo aſſiſt me, that I may not be an un<g ref="char:EOLhyphen"/>welcome gueſt unto Thee: but be filled with ſuch a lively ſenſe of thy Love to me, and with ſuch a ſincere and ardent Love to Thee, and with ſuch ſatisfaction of heart in being one of thy Ser<g ref="char:EOLhyphen"/>vants,
+<pb n="44" facs="tcp:34776:27"/>that I may be more ſorrowfull then ever that I have offen<g ref="char:EOLhyphen"/>ded Thee, and more ſtedfaſtly reſolved to be ſtrictly obedient to Thee.</p>
+            <p>And, O moſt gracious God, let me find, I be<g ref="char:EOLhyphen"/>ſeech Thee, all ſuch god<g ref="char:EOLhyphen"/>ly Reſolutions in me more confirmed and ſtrength<g ref="char:EOLhyphen"/>ned by the heavenly Food Thou haſt prepared for me. O that (as I ſtand already engaged by for<g ref="char:EOLhyphen"/>mer Vows which I have upon me, ſo) I may faithfully and chearfully obey thy holy will in all
+<pb n="45" facs="tcp:34776:27"/>things, and daily in<g ref="char:EOLhyphen"/>creaſe in thy holy Spirit more and more, untill I come to thy everlaſting Kingdom.</p>
+            <p>Hear me, O Lord, and help me ſo to per<g ref="char:EOLhyphen"/>form my Duty in every part of that holy action, which I am going to doe in remembrance of my Saviour, that I may not onely at preſent rejoyce in his Love to me, but be excited thereby to doe the reſt of my Duty bet<g ref="char:EOLhyphen"/>ter, and with more de<g ref="char:EOLhyphen"/>light, all the days of my life.</p>
+            <p>
+               <pb n="46" facs="tcp:34776:28"/>
+Which I humbly beg through his Merits and Mediation; to whom, with Thee, O Father, and the Holy Ghoſt, be all honour, glory and praiſe both now and for evermore. <hi>Amen.</hi>
+            </p>
+         </div>
+         <div n="6" type="chapter">
+            <head>
+               <hi>CHAP. VI.</hi> The manner of Recei<g ref="char:EOLhyphen"/>ving.</head>
+            <p>THUS I have led you to the Ho<g ref="char:EOLhyphen"/>ly Communion; and now you will expect I
+<pb n="47" facs="tcp:34776:28"/>ſhould inſtruct your be<g ref="char:EOLhyphen"/>haviour there. I know no plainer or more na<g ref="char:EOLhyphen"/>tural method, then to direct you what to doe in every part of that Divine Service.</p>
+            <p>When the Sermon therefore is done, and you are conveniently placed, that you may loſe no time, (while the Miniſter is making himſelf ready, and the Congregation that doth not receive is diſmiſ<g ref="char:EOLhyphen"/>ſing) repeat the Prayer above written, or ſome part of it.</p>
+            <p>
+               <pb n="48" facs="tcp:34776:29"/>
+               <hi>When you ſee the Mini<g ref="char:EOLhyphen"/>ſter going up to offi<g ref="char:EOLhyphen"/>ciate,</hi> ſay,</p>
+            <p>Bleſſed be the Lord for his Miniſters, the Stewards of the Myſte<g ref="char:EOLhyphen"/>ries of God: eſpecially for thoſe faithfull and wiſe Stewards, whom the Lord hath made, Rulers over his houſ<g ref="char:EOLhyphen"/>hold, to give them meat in due ſeaſon. XXIV. <hi>Matth.</hi> 45. 1 <hi>Cor.</hi> IV. I.</p>
+            <p>
+               <pb n="49" facs="tcp:34776:29"/>
+               <hi>When he begins the Offer<g ref="char:EOLhyphen"/>tory,</hi> ſay,</p>
+            <p>Let every one of our Prayers, together with our Alms and Obla<g ref="char:EOLhyphen"/>tions, come up for a memorial before the Lord: whoſe holy An<g ref="char:EOLhyphen"/>gels I believe are pre<g ref="char:EOLhyphen"/>ſent at theſe Solem<g ref="char:EOLhyphen"/>nities.</p>
+            <p>
+               <hi>A poor Servant may adde,</hi>
+            </p>
+            <p>The Lord accept of my poor Mite, who have little to offer, but my ſelf, and all that I
+<pb n="50" facs="tcp:34776:30"/>can doe; which I de<g ref="char:EOLhyphen"/>dicate to his ſervice.</p>
+            <p>Then awaken your ſelf to accompany the Miniſter in the Prayer for the <hi>whole ſtate of Chriſt's Church,</hi> &amp;c. and attend diligently to the following Exhortation, which begins with theſe words, <hi>Dearly beloved in the Lord:</hi> which the Miniſter ought to ſpeak, and you hear, with much affection.</p>
+            <p>Then joyn as hear<g ref="char:EOLhyphen"/>tily and earneſtly as you are able, in the
+<pb n="51" facs="tcp:34776:30"/>
+               <hi>General Confeſſion;</hi> and receive the <hi>Abſolution</hi> (with the <hi>comfortable words</hi> of <hi>Chriſt</hi> and his Apoſtles that follow af<g ref="char:EOLhyphen"/>ter) as you would do the moſt joyfull news in the world; ſtirring up your ſelves (as the Miniſter exhorts you, when he ſaith, <hi>Lift up your hearts</hi>) to bleſs and praiſe the Lord, together with all the Heavenly hoſt, for ſuch everlaſting conſolation and good hope, as He hath given us, through his grace in <hi>Chriſt Jeſus.</hi>
+            </p>
+            <p>
+               <pb n="52" facs="tcp:34776:31"/>
+For thoſe precious Promiſes ought to be ſweeter to you (as the Pſalmiſt ſpeaks) then the honey and the ho<g ref="char:EOLhyphen"/>ney-comb; far dearer then thouſands of gold and ſilver. And now you may be aſſured (though unworthy to gather the crums under his Table) that, recei<g ref="char:EOLhyphen"/>ving the Creatures of Bread and Wine, ac<g ref="char:EOLhyphen"/>cording to <hi>Chriſt</hi>'s inſti<g ref="char:EOLhyphen"/>tution, in remembrance of his Death and Paſ<g ref="char:EOLhyphen"/>ſion, you ſhall be <hi>par<g ref="char:EOLhyphen"/>takers of his moſt bleſſed
+<pb n="53" facs="tcp:34776:31"/>Body and Bloud.</hi> Un<g ref="char:EOLhyphen"/>to to which words, in the <hi>Prayer of Conſecration,</hi> ſay ſecretly to your ſelf, <hi>Amen, Amen.</hi>
+            </p>
+            <p>
+               <hi>When the Miniſter him<g ref="char:EOLhyphen"/>ſelf Communicates,</hi> ſay,</p>
+            <p>The Lord hear thee. The Lord remember all thy Offerings, and ac<g ref="char:EOLhyphen"/>cept thy Sacrifice: Grant thee thy heart's deſire, and fulfill all thy mind. The Lord fulfill all thy Petitions, both for thy ſelf, and for us,
+<pb n="54" facs="tcp:34776:32"/>and for all his people.</p>
+            <p>
+               <hi>When you are going to approach to the Lord's Table,</hi>
+            </p>
+            <p>Propound to your ſelf, by way of Que<g ref="char:EOLhyphen"/>ſtion, the Invitation which the Miniſter hath given you, ſay<g ref="char:EOLhyphen"/>ing, <hi>Do I truly and ear<g ref="char:EOLhyphen"/>neſtly repent me of my Sins? and am I in love and charity with my Neighbours? and in<g ref="char:EOLhyphen"/>tend to lead a new life, following the Command<g ref="char:EOLhyphen"/>ments of God, and wal<g ref="char:EOLhyphen"/>king
+<pb n="55" facs="tcp:34776:32"/>from henceforth in his holy ways?</hi>
+            </p>
+            <p>(And finding your ſelf able to return the Anſwer of a good Con<g ref="char:EOLhyphen"/>ſcience, reſolve, as it there follows,) <hi>Then I will draw near with Faith, and take this Holy Sacrament to my comfort.</hi>
+            </p>
+            <p>
+               <hi>When you are placed there,</hi> ſay,</p>
+            <p>Lord, what am I, that Thou ſhouldſt be thus gracious to me? What an honour is it,
+<pb n="56" facs="tcp:34776:33"/>that I am invited hither to feaſt, at Thy Table, upon the Body and Bloud of my Bleſſed Saviour? To receive the pledges of his Love, and to engage my Love to Him? which I deſire may abound more and more towards Him, and towards my Chriſtian Brethren, and towards all men.</p>
+            <p>
+               <pb n="57" facs="tcp:34776:33"/>
+               <hi>When the Miniſter hath delivered thee the Bread, concluding in theſe words, [—Feed on him in thy heart by faith with thanks<g ref="char:EOLhyphen"/>giving,]</hi> ſay,</p>
+            <p>I do believe, O Lord, that Thou art the Bread of life, which came down from Hea<g ref="char:EOLhyphen"/>ven, by whom we are nouriſhed to eternal Life. And I thank Thee, with all my Soul, that Thou haſt both taught us the way
+<pb n="58" facs="tcp:34776:34"/>of God in truth; and alſo died for our Sins, and roſe again to give us hope of that immor<g ref="char:EOLhyphen"/>tal Life. Bleſſed be thy Name, I have now, by thy own appointment, received the ſacred pledge and earned of it: Wherefore my Soul doth magnify the Lord, and my ſpirit rejoyceth in God my Saviour. Whoſe Grace I truſt will be with my ſpirit; that I may rejoyce in the Lord alway, and ever delight in all well-doing. <hi>Amen.</hi>
+            </p>
+            <p>
+               <pb n="59" facs="tcp:34776:34"/>
+               <hi>Or this,</hi>
+            </p>
+            <p>I believe, O Bleſſed <hi>Jeſus,</hi> that Thou art the Lord of all; and give Thee moſt humble and hearty thanks, for calling me to the knowledge of thy Grace, and to Faith in Thee: beſeeching Thee, that, as I have now received this new token of thy Love, (bleſſed be thy Good<g ref="char:EOLhyphen"/>neſs,) ſo Thou wilt ever be my God, and by continuance in well-doing bring me
+<pb n="60" facs="tcp:34776:35"/>to everlaſting Life. <hi>A<g ref="char:EOLhyphen"/>men.</hi>
+            </p>
+            <p>
+               <hi>A ſhorter after the Bread.</hi>
+            </p>
+            <p>I thank Thee, O Lord, for calling me into this ſtate of Salva<g ref="char:EOLhyphen"/>tion, and for giving me this new pledge of thy continued Love. Aſſiſt me with thy Grace to doe my duty to Thee and to my Neighbour ſo faithfully, that I may abide in thy love for ever, through <hi>Jeſus Chriſt,</hi> &amp;c.</p>
+            <p>
+               <pb n="61" facs="tcp:34776:35"/>
+               <hi>After you have received the Cup, when the Miniſter concludes, with thoſe words, [— and be thank<g ref="char:EOLhyphen"/>full,]</hi> ſay,</p>
+            <p>I thank Thee, O Lord of Heaven and Earth, that Thou wouldſt condeſcend to take our Nature upon Thee, and therein ſuf<g ref="char:EOLhyphen"/>fer for our Sins; yea ſhed thy precious Bloud upon the Croſs for our Redemption. Glory, honour, bleſſing and
+<pb n="62" facs="tcp:34776:36"/>praiſe be unto Thee, O Lord; to whom, in all reaſon, I ought hence<g ref="char:EOLhyphen"/>forth to live, and not unto my ſelf. And therefore here I devote my ſelf to thy faithfull ſervice; and reſolve, if need be, even to take up my Croſs, and follow Thee. Aſſiſt me, good Lord, and make me par<g ref="char:EOLhyphen"/>taker of all the Benefits of thy Death and Paſ<g ref="char:EOLhyphen"/>ſion; according as Thou ſeeſt me ſincerely reſol<g ref="char:EOLhyphen"/>ved, in all things for ever to obey Thee. <hi>Amen.</hi>
+            </p>
+            <p>
+               <pb n="63" facs="tcp:34776:36"/>
+               <hi>Or this,</hi>
+            </p>
+            <p>Bleſs the Lord, O my Soul, and all that is within me bleſs his holy Name. Bleſs the Lord, O my Soul, and forget not all his Bene<g ref="char:EOLhyphen"/>fits. Who forgiveth all thy Sin, and hath now filled thy mouth with good things: and who giveth thee hope of better in eternal Life. Sanctify me wholly, O Lord, that I may not fall ſhort of it: but my whole, Spirit and Soul and Body, may be pre<g ref="char:EOLhyphen"/>ſerved
+<pb n="64" facs="tcp:34776:37"/>blameleſs unto the coming of our Lord <hi>Jeſus. Amen.</hi>
+            </p>
+            <p>
+               <hi>A ſhorter after the Cup.</hi>
+            </p>
+            <p>I thank Thee again, O Lord, for thy wonderfull Love in ſending thy Son to lay down his Life, and in making me partaker of the Benefits of his precious Bloud ſhedding for us. Preſerve in me for ever a ſenſe of thy Love; and thereby preſerve me holy and without blemiſh to the ſecond coming of our Lord <hi>Jeſus. Amen.</hi>
+            </p>
+            <p>
+               <pb n="65" facs="tcp:34776:37"/>
+               <hi>After you are gone from the Lord's Table, to your ſeat,</hi> ſay,</p>
+            <p>Bleſſed be the Lord, for his exceeding great grace and mercy to us in <hi>Chriſt Jeſus.</hi> Bleſſed be the Lord, who hath called me into fellow<g ref="char:EOLhyphen"/>ſhip with Himſelf, and with his Son <hi>Chriſt Je<g ref="char:EOLhyphen"/>ſus.</hi> Bleſſed be his Name, that I have now received the to<g ref="char:EOLhyphen"/>kens of his endleſs Love: in which I ought to rejoyce with<g ref="char:EOLhyphen"/>out
+<pb n="66" facs="tcp:34776:38"/>ceaſing, as more valuable then all the goods of this world.</p>
+            <p>It is my joy, O Lord, my higheſt ſatisfaction I have in this world, that I am beloved of Thee, who art able to make me more happy then I can conceive. O pre<g ref="char:EOLhyphen"/>ſerve me for ever in thy Love; and for that end preſerve in me the ſame thoughts, reſolu<g ref="char:EOLhyphen"/>tions, and devout af<g ref="char:EOLhyphen"/>fections, which I now feel in my heart.</p>
+            <p>Keep them alive by the powerfull aſſiſten<g ref="char:EOLhyphen"/>ces
+<pb n="67" facs="tcp:34776:38"/>of thy Holy Spirit; of which Thou haſt gi<g ref="char:EOLhyphen"/>ven me an aſſurance in thy precious Promiſes, and in theſe ſacred Pledges of thy Loving-kindneſs. For which I again moſt humbly thank Thee, and deſire I may never forget how much I am indebted to Thee; but be ſtill prai<g ref="char:EOLhyphen"/>ſing Thee, and ſaying,</p>
+            <p>
+               <hi>I will extoll Thee, my God, O King of Hea<g ref="char:EOLhyphen"/>ven; and I will bleſs thy Name for ever and ever.</hi>
+            </p>
+            <p>
+               <hi>Every day will I bleſs
+<pb n="68" facs="tcp:34776:39"/>Thee, and I will praiſe thy Name for ever and ever.</hi>
+            </p>
+            <p>
+               <hi>While I live, will I praiſe the Lord: I will ſing praiſes to my God, while I have any being.</hi>
+            </p>
+            <p>
+               <hi>My mouth ſhall ſpeak the praiſe of the Lord: and let all fleſh bleſs his holy Name for ever and ever.</hi> Amen.</p>
+            <p>
+               <hi>While others are Com<g ref="char:EOLhyphen"/>municating,</hi> you may ſay,</p>
+            <p>Preſerve us all, O Lord, pure and accep<g ref="char:EOLhyphen"/>table
+<pb n="69" facs="tcp:34776:39"/>Sacrifices unto Thee; that we may be all preſented ſpotleſs before the preſence of thy glory with excee<g ref="char:EOLhyphen"/>ding joy.</p>
+            <p>
+               <hi>Or this,</hi>
+            </p>
+            <p>As we, being many, are one bread and one body: (for we are all partakers of that one Bread, and have drunk of the ſame Cup:) ſo help us to keep the uni<g ref="char:EOLhyphen"/>ty of the Spirit in the bond of peace; and to love one another with a pure heart fervently.</p>
+            <p>
+               <pb n="70" facs="tcp:34776:40"/>
+               <hi>Or this,</hi> Rom. 5, 6.</p>
+            <p>
+               <hi>Now the God of pa<g ref="char:EOLhyphen"/>tience and conſolation grant us to be like-min<g ref="char:EOLhyphen"/>ded one towards another, after the example of Chriſt Jeſus:</hi>
+            </p>
+            <p>
+               <hi>That we may with one mind and one mouth glo<g ref="char:EOLhyphen"/>rify God, even the Fa<g ref="char:EOLhyphen"/>ther of our Lord Jeſus Chriſt.</hi>
+            </p>
+            <p>
+               <hi>This may be added.</hi>
+            </p>
+            <p>
+               <hi>Let all the people praiſe Thee, O God, let all the people praiſe Thee.</hi>
+            </p>
+            <p>
+               <hi>From the riſing of the
+<pb n="71" facs="tcp:34776:40"/>Sun unto the going down of the ſame, let the Name of our Lord be praiſed.</hi>
+            </p>
+            <p>
+               <hi>Bleſſed be the Name of the Lord, from this time forth and for ever<g ref="char:EOLhyphen"/>more.</hi>
+            </p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>pon</hi> Chriſtmas-<hi>day and ſeven days after you may adde this to your other Devotions.</hi>
+            </p>
+            <p>More particularly I now remember, O Lord, thy ſtupendious Love, in ſending thy Son ſo unexpectedly to
+<pb n="72" facs="tcp:34776:41"/>viſit us, when the World thought not of Thee, but were Stran<g ref="char:EOLhyphen"/>gers, or rather Enemies unto Thee. Bleſſed be the Lord, who hath ſo highly honoured our Nature, as to dwell among us, and to ap<g ref="char:EOLhyphen"/>pear in the likeneſs of ſinfull Fleſh. Preſerve in me ſuch a remem<g ref="char:EOLhyphen"/>brance of it, that I may never diſhonour Him nor my ſelf, by conſen<g ref="char:EOLhyphen"/>ting to any filthineſs either of the fleſh or ſpirit: but alway be<g ref="char:EOLhyphen"/>have my ſelf ſutably to
+<pb n="73" facs="tcp:34776:41"/>the relation I have unto Him, in righteouſneſs and holineſs before Him all the days of my life. <hi>Amen.</hi>
+            </p>
+            <p>
+               <hi>V;pon</hi> Eaſter-<hi>day and ſeven days after.</hi>
+            </p>
+            <p>I bleſs Thee, O Lord, who haſt fulfilled thy promiſe unto our Savi<g ref="char:EOLhyphen"/>our, that Thou wouldſt <hi>not leave his Soul in hell, nor ſuffer thy Holy one to ſee Corruption.</hi> Bleſ<g ref="char:EOLhyphen"/>ſed be God, who hath thereby confirmed our Faith in the Promiſes
+<pb n="74" facs="tcp:34776:42"/>He hath made to us. <hi>This is the day</hi> [or <hi>time</hi>] <hi>the Lord hath made; I will rejoyce and be glad in it.</hi> This is the day when my Saviour was begotten again from the dead; and thereby <hi>hath begot<g ref="char:EOLhyphen"/>ten us again unto a live<g ref="char:EOLhyphen"/>ly hope</hi> of immortal Life. <hi>This is the Lord's doing, and it is marvellous in our eyes. The Lord hath ſhewed us light;</hi> even the light of Life. I will offer to Him therefore perpetually the Sacrifice of righte<g ref="char:EOLhyphen"/>ouſneſs,
+<pb n="75" facs="tcp:34776:42"/>together with theſe Sacrifices of praiſe and thanksgiving, for his Mercy towards us; which, I ſee by this, endureth for ever.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>pon</hi> Aſcention-<hi>day and ſeven days after.</hi>
+            </p>
+            <p>Bleſſed be God, that I ſee <hi>Jeſus,</hi> who was humbled a while and made lower then the Angels, for the ſuffe<g ref="char:EOLhyphen"/>ring of death, crowned now with glory and honour. Lift up my heart, O Bleſſed <hi>Jeſus,</hi>
+               <pb n="76" facs="tcp:34776:43"/>to that high and holy place, where Thou art exalted; and keep it fixed there. That ſet<g ref="char:EOLhyphen"/>ting my affections on things above, where Thou art at God's right hand, I may never doe any thing that is un<g ref="char:EOLhyphen"/>worthy of my Chriſtian Profeſſion: but have my Converſation in Heaven; from whence I expect Thee, O Bleſ<g ref="char:EOLhyphen"/>ſed <hi>Jeſus,</hi> who haſt told us, Thou art onely gone before, to prepare a place for us.</p>
+            <p>Where Thou art, O
+<pb n="77" facs="tcp:34776:43"/>Bleſſed Lord, there let me be alſo: And at laſt change this vile bo<g ref="char:EOLhyphen"/>dy, that it may be fa<g ref="char:EOLhyphen"/>ſhioned like unto thy glorious Body, accor<g ref="char:EOLhyphen"/>ding to the working whereby Thou art able even to ſubdue all things unto thy ſelf.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>pon</hi> Whitſunday <hi>and ſix days after.</hi>
+            </p>
+            <p>I rejoyce in the com<g ref="char:EOLhyphen"/>fort Thou haſt brought us, O Holy Spirit of Grace: I rejoyce to
+<pb n="76" facs="tcp:34776:44"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="77" facs="tcp:34776:44"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="78" facs="tcp:34776:45"/>hear (as Thou haſt te<g ref="char:EOLhyphen"/>ſtified by the wonder<g ref="char:EOLhyphen"/>full Gifts beſtowed on the Apoſtles) that my Deareſt Saviour is alive; and that He lives for evermore; and will never ceaſe his Love to us, till we be there where He is. O inſpire me more and more with thy heaven<g ref="char:EOLhyphen"/>ly Grace, that being ſtedfaſt in this Faith, I may bring forth all the fruits of the Spirit; and not onely reſiſt, but overcome all Tempta<g ref="char:EOLhyphen"/>tions in my way to
+<pb n="79" facs="tcp:34776:45"/>Heaven. Guide me by thy Counſel, ſtrengthen me with thy Might, ſup<g ref="char:EOLhyphen"/>port me with thy Com<g ref="char:EOLhyphen"/>forts in all neceſſities, ſtreights and dangers; that I may at laſt ſafely arrive at eternal glory. <hi>Amen.</hi>
+            </p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>pon the Feaſt of</hi> Tri<g ref="char:EOLhyphen"/>nity <hi>onely.</hi>
+            </p>
+            <p>Adored be the in<g ref="char:EOLhyphen"/>comprehenſible Majeſty of the Eternal undivi<g ref="char:EOLhyphen"/>ded Trinity, in whoſe Name I was baptized; and whom I humbly
+<pb n="80" facs="tcp:34776:46"/>worſhip with praiſes and thanksgivings, ſay<g ref="char:EOLhyphen"/>ing,</p>
+            <p>Bleſſed be thy Name, O God the Father Al<g ref="char:EOLhyphen"/>mighty, the Creatour of Heaven and Earth; in whom we all live, and move, and have our being.</p>
+            <p>And bleſſed be the Eternal Son of the Fa<g ref="char:EOLhyphen"/>ther, our Saviour and Redeemer, the Prince of Peace, who hath purchaſed an eternal Redemption for us.</p>
+            <p>And bleſſed be the Holy Ghoſt, the Com<g ref="char:EOLhyphen"/>forter,
+<pb n="81" facs="tcp:34776:46"/>who inſpires me with good thoughts, pious deſires, and god<g ref="char:EOLhyphen"/>ly reſolutions; and will conduct me, I hope, unto everlaſting Life. <hi>Amen.</hi>
+            </p>
+         </div>
+         <div n="7" type="chapter">
+            <head>
+               <hi>CHAP. VII</hi> Meditations and Pray<g ref="char:EOLhyphen"/>ers afterward.</head>
+            <p>IF there be more time left, before all have communicated, (as there is generally on theſe great Feſtivals, and where many re<g ref="char:EOLhyphen"/>ceive
+<pb n="82" facs="tcp:34776:47"/>upon other days) you may ſpend it in Meditating, as well as you are able, upon the Ends for which this Sa<g ref="char:EOLhyphen"/>crament was ordained. Turn to the <hi>Third</hi> Chapter of this Book, and there reade them in order;</p>
+            <p n="1">I. Saying to your ſelf, when you think that you have now ſo<g ref="char:EOLhyphen"/>lemnly owned your ſelf to be a Chriſtian, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>O Lord, truly I am thy Servant, I am thy Servant; I am ſenſible
+<pb n="83" facs="tcp:34776:47"/>that I am not my own; for I am bought with a great price, and there<g ref="char:EOLhyphen"/>fore ought to glorify God in my body and in my ſpirit, which are God's.</hi>
+            </p>
+            <p>
+               <hi>And, Good Lord, aſ<g ref="char:EOLhyphen"/>ſiſt me (as becomes one who names the Name of</hi> Chriſt) <hi>to depart from all iniquity.</hi>
+            </p>
+            <p n="2">II. And when you think of the <hi>next</hi> thing, (how thankfull you ought to be to God the Father, Son, and Holy Ghoſt,) you may eaſily turn thoſe words you
+<pb n="84" facs="tcp:34776:48"/>reade there into a Thanksgiving: or have ſome ſuch ſhort Ejacu<g ref="char:EOLhyphen"/>lation as this:</p>
+            <p>What ſhall I render unto the Lord for all his benefits towards me? e<g ref="char:EOLhyphen"/>ſpecially for this, that He hath not ſpared his own Son, but delivered him up for us all?</p>
+            <p n="3">
+               <hi>III. To which you may give an Anſwer, when you think of the <hi>Third</hi> thing, [your Fi<g ref="char:EOLhyphen"/>delity to him] ſaying,</hi>
+            </p>
+            <p>I have ſworn, and I will perform it, that I
+<pb n="85" facs="tcp:34776:48"/>will keep thy righteous Judgments.</p>
+            <p>I have inclined my heart to perform thy Sta<g ref="char:EOLhyphen"/>tutes always, even unto the end. <hi>CXIX.</hi> Pſal. <hi>106.112.</hi>
+            </p>
+            <p>
+               <hi>It is reaſonable that</hi> whatſoever I doe in word or deed, I ſhould doe all in the Name of the Lord <hi>Jeſus,</hi> giving thanks to God and the Father by Him. <hi>III.</hi> Coloſſ. <hi>17.</hi>
+            </p>
+            <p n="4">
+               <hi>IV. And when you think (laſtly) of ha<g ref="char:EOLhyphen"/>ving Communion with Him, ſay,</hi>
+            </p>
+            <p>
+               <pb n="86" facs="tcp:34776:49"/>
+What greater Happi<g ref="char:EOLhyphen"/>neſs can I wiſh, then to be one with <hi>Chriſt?</hi> and to be made partaker with Him in the Merits of his Death? whereby I am ſure that I ſhall partake with Him in the glory of his Reſurrection.</p>
+            <p>By this I know that I dwell in Him, and He in me, becauſe He hath given me of his Spirit.</p>
+            <p>O make me, Bleſſed Lord, more and more one with Thee, by ma<g ref="char:EOLhyphen"/>king me more perfectly of the ſame mind, ſpirit and diſpoſition with Thee.</p>
+            <p>
+               <pb n="87" facs="tcp:34776:49"/>
+A Prayer at home on that day.</p>
+            <p>
+               <hi>If you be by ſuch means as theſe duly af<g ref="char:EOLhyphen"/>fected with our Savi<g ref="char:EOLhyphen"/>our's Love towards you, the remembrance of it will not preſently ſlip out of your mind; nor will you be willing to part with it. And while it continues there, it will make all your Chriſtian Duty eaſy and delightfull; and it will be a hard matter to perſuade you to of<g ref="char:EOLhyphen"/>fend
+<pb n="88" facs="tcp:34776:50"/>Him. Do not fail therefore to endeavour to preſerve it, by affec<g ref="char:EOLhyphen"/>ting your heart again with ſuch thoughts as theſe; repeating ſome time or other on that day the foregoing Me<g ref="char:EOLhyphen"/>ditations, and adding this Prayer.</hi>
+            </p>
+            <p>I can never thank Thee enough, O Father of mercies, and God of all comfort, for the in<g ref="char:EOLhyphen"/>numerable benefits I have received from thy boun<g ref="char:EOLhyphen"/>ty: And therefore ought to take all opportunities
+<pb n="89" facs="tcp:34776:50"/>to bleſs Thee, and to ſpeak good of thy Name; eſpecially now that I have newly taſted how graci<g ref="char:EOLhyphen"/>ous Thou art, in giving thy onely Son, our Savi<g ref="char:EOLhyphen"/>our <hi>Jeſus Chriſt,</hi> not onely to die for us, but alſo to be our ſpiritual food and ſuſtenance, in that Sacrament which I have this day received.</p>
+            <p>When I think onely what a kindneſs it is, that I have my daily bread, and never want things convenient for the ſupport and comfort of this preſent life; I find
+<pb n="90" facs="tcp:34776:51"/>that I am indebted to Thee upon that account, exceedingly above all that I can expreſs: But that Thou art pleaſed to admit me to thy own Ta<g ref="char:EOLhyphen"/>ble, and there entertain me with the bleſſed hope of being with my Saviour where He is, and rejoy<g ref="char:EOLhyphen"/>cing with Him for ever; Lord, how much doth it ſurpaſs the higheſt of my thoughts? and with what delight and ſatis<g ref="char:EOLhyphen"/>faction ought it to fill my heart?</p>
+            <p>Poſſeſs me, I beſeech Thee, moſt mercifull Fa<g ref="char:EOLhyphen"/>ther,
+<pb n="91" facs="tcp:34776:51"/>with ſuch a lively ſenſe of this Love, that I may never forget how happy I am, in being ſo nearly related to <hi>Chriſt Jeſus:</hi> But always ac<g ref="char:EOLhyphen"/>count it ſuch an honour to be one of his Ser<g ref="char:EOLhyphen"/>vants, that I may con<g ref="char:EOLhyphen"/>ſtantly and chearfully obey Him; and delight in this, and all other Duties of a Chriſtian life.</p>
+            <p>It is a great favour, I ought to be ſenſible, that I may have the li<g ref="char:EOLhyphen"/>berty alway to reſort un<g ref="char:EOLhyphen"/>to Him, as my moſt gra<g ref="char:EOLhyphen"/>cious
+<pb n="92" facs="tcp:34776:52"/>Lord and Maſter; and enjoy Him not onely in the publick Offices of Religion, but here at home in theſe private ad<g ref="char:EOLhyphen"/>dreſſes unto Him. 0 that by all ſuch means I may grow more like Him! and carry away ſuch a reſemblance of his Holineſs, Goodneſs, Hu<g ref="char:EOLhyphen"/>mility, Meekneſs and Patience, that every bo<g ref="char:EOLhyphen"/>dy may ſee I have been with <hi>Jeſus!</hi>
+            </p>
+            <p>O that there may be ſuch a pious ſenſe of his Love, and ſuch devout affections towards Him!
+<pb n="93" facs="tcp:34776:52"/>left in my heart; that I may not content my ſelf merely with my daily Prayers, much leſs with theſe preſent expreſſions of Love to Him: but it may he my conſtant care every day to approve my ſelf unto Him ſo faith<g ref="char:EOLhyphen"/>fully in all well-doing, that I may not be afraid to appear again before Him, at the next invita<g ref="char:EOLhyphen"/>tion I have to his Table!</p>
+            <p>And let the hearts of all thoſe who have this day devoutly attended on thy ſervice be joyfull and glad in Thee. Help us
+<pb n="94" facs="tcp:34776:53"/>all to keep our ſelves pure and undefiled, and to walk ſo ſteddily in the fear of God, and in the comfort of the Holy Ghoſt; that others, ſee<g ref="char:EOLhyphen"/>ing our good converſa<g ref="char:EOLhyphen"/>tion in <hi>Chriſt,</hi> may be in love with Religion, and glorify Thee our heavenly Father.</p>
+            <p>Have mercy alſo (as we have this day moſt humbly prayed) upon the whole Church. And ſo rule the heart of thy choſen Servant CHARLES our King and Governour; that in
+<pb n="95" facs="tcp:34776:53"/>all his thoughts, words, and works, he may ever ſeek thy honour and glo<g ref="char:EOLhyphen"/>ry; and ſtudy to pre<g ref="char:EOLhyphen"/>ſerve thy people commit<g ref="char:EOLhyphen"/>ted to his charge, in wealth, peace, and god<g ref="char:EOLhyphen"/>lineſs. And grant alſo unto all them that are admitted into the fel<g ref="char:EOLhyphen"/>lowſhip of <hi>Chriſt</hi>'s Reli<g ref="char:EOLhyphen"/>gion, that they may eſ<g ref="char:EOLhyphen"/>chew thoſe things that are contrary to their Profeſſion, and follow all ſuch things as are agreeable to the ſame, for thy dear Sons ſake <hi>Jeſus Chriſt,</hi> our Lord. <hi>Amen.</hi>
+            </p>
+            <p>
+               <pb n="96" facs="tcp:34776:54"/>
+               <hi>If this ſeem too long, here follows a ſhor<g ref="char:EOLhyphen"/>ter.</hi>
+            </p>
+            <p>I proſtrate my ſelf here again before Thee, O Lord of Heaven and Earth, to bleſs and praiſe Thee for all thy Mercies towards me; e<g ref="char:EOLhyphen"/>ſpecially for thoſe which Thou haſt this day be<g ref="char:EOLhyphen"/>ſtowed on me.</p>
+            <p>I would not be ſo un<g ref="char:EOLhyphen"/>gratefull as preſently to forget ſuch a wonder<g ref="char:EOLhyphen"/>full Grace as Thou haſt vouchſafed me: but de<g ref="char:EOLhyphen"/>ſire
+<pb n="97" facs="tcp:34776:54"/>moſt earneſtly to have a laſting remem<g ref="char:EOLhyphen"/>brance of it in my heart, provoking me to love and to good works.</p>
+            <p>And for that end I now renew my humble ſupplications unto Thee, that Thou wilt conſtant<g ref="char:EOLhyphen"/>ly excite and aſſiſt me by thy Holy Spirit, to walk worthy of my high and heavenly calling in <hi>Chriſt Jeſus;</hi> by ſuch a ſober, righteous and godly life, adorning his Doctrine in all things, that He may own me for his good and faithfull
+<pb n="98" facs="tcp:34776:55"/>Servant at that great Day, when we ſhall ſee Him not in theſe ſhadows and figures of Him, but face to face.</p>
+            <p>And have mercy upon thy whole Church. Whoſe Prayers I beſeech Thee to hear for every Member of the ſame: more eſpe<g ref="char:EOLhyphen"/>cially for our Sovereign, and all that are in au<g ref="char:EOLhyphen"/>thority under him; that by their pious care and watchfulneſs thy Church may joyfully ſerve Thee in all godly quietneſs, through <hi>Jeſus Chriſt</hi> our Lord. <hi>Amen.</hi>
+            </p>
+         </div>
+         <div n="8" type="chapter">
+            <pb n="99" facs="tcp:34776:55"/>
+            <head>
+               <hi>CHAP. VIII.</hi> Directions for a godly Life, ſutable to this holy Communion.</head>
+            <p n="1">I. TAKE ſome time every day to call to mind how much you ſtand engaged to our Saviour <hi>Chriſt: firſt,</hi> by your Baptiſmal Vow; <hi>ſecondly,</hi> by your ſo<g ref="char:EOLhyphen"/>lemn Ratification of it at your Confirmation; and <hi>thirdly,</hi> by your renewing it lately at
+<pb n="100" facs="tcp:34776:56"/>the Holy Communion, when you profeſſed how much you were indebted to Him, both upon the account of his offering Himſelf upon the Croſs for you, and of his giving Himſelf there again to you.</p>
+            <p n="2">II. If theſe <hi>three</hi> come into your mind as ſoon as you awake in the morning, it will be a great ſecurity to you. And to make your ſelf more ſenſible of your obligation, you may
+<pb n="101" facs="tcp:34776:56"/>begin the day with this Reflection. <hi>I am not my own, but the Lord's. He hath bought me with a price, and I have de<g ref="char:EOLhyphen"/>voted my ſelf again and again unto Him. There<g ref="char:EOLhyphen"/>fore I will glorify Him with body and Soul, which are his.</hi>
+            </p>
+            <p>Or to affect your heart the more, you may put it thus. <hi>O how happy am I in being ingaged to ſerve ſuch a gracious Lord and Ma<g ref="char:EOLhyphen"/>ſter as</hi> Chriſt Jeſus! <hi>I will never loſe this Hap<g ref="char:EOLhyphen"/>pineſs by being unfaith<g ref="char:EOLhyphen"/>full
+<pb n="102" facs="tcp:34776:57"/>to Him, and un<g ref="char:EOLhyphen"/>mindfull of his Love.</hi>
+            </p>
+            <p n="3">III. To keep your ſelf ſtedfaſt in this Reſolu<g ref="char:EOLhyphen"/>tion, reade ſeriouſly every day <hi>your Duty to God</hi> and your <hi>Duty to your Neighbour,</hi> as they are plainly ſet down in the Church-CATE<g ref="char:EOLhyphen"/>CHISM. [See <hi>p</hi> 29. of this Book.] And ſay at the end of it, <hi>This I have promiſed, this I have vowed when I be<g ref="char:EOLhyphen"/>came a Chriſtian, this I have again confirmed;
+<pb n="103" facs="tcp:34776:57"/>and this by God's grace I will faithfully perform.</hi>
+            </p>
+            <p n="4">IV. And reſolve at the ſame time to <hi>be watch<g ref="char:EOLhyphen"/>full all that day:</hi> eſpe<g ref="char:EOLhyphen"/>cially in thoſe things wherein you obſerved (at your laſt examina<g ref="char:EOLhyphen"/>tion of your ſelf) you have been moſt de<g ref="char:EOLhyphen"/>fective, and moſt apt to be ſurpriſed. Excite your ſelf therein to uſe greater diligence, and ſet a ſtricter guard up<g ref="char:EOLhyphen"/>on your heart; care<g ref="char:EOLhyphen"/>fully avoiding ſuch pla<g ref="char:EOLhyphen"/>ces,
+<pb n="104" facs="tcp:34776:58"/>company, and oc<g ref="char:EOLhyphen"/>caſions, as have been wont to indanger you. And call your ſelf to an account at night; ac<g ref="char:EOLhyphen"/>cording to the Advice <hi>p.</hi> 33. of this Book.</p>
+            <p n="5">V. There is no body, ſure, ſo imployed, but may find time for ſuch ſhort Exerciſes as theſe. In which if they would be ſerious, and not ſlubber them over too faſt; they would find the happy fruit of them in their hearts and
+<pb n="105" facs="tcp:34776:58"/>lives. And to make them the more effectual, adde this <hi>ſhort Prayer,</hi> as oft as you can, every day.</p>
+            <p>
+               <hi>Almighty God, who haſt given thine onely Son to be unto us both a Sacrifice for Sin, and alſo an Enſample of god<g ref="char:EOLhyphen"/>ly Life; give me grace that I may always moſt thankfully receive that his ineſtimable Benefit, and alſo daily endeavour my ſelf to follow the bleſſed ſteps of his moſt holy Life, through the
+<pb n="106" facs="tcp:34776:59"/>ſame</hi> Jeſus Chriſt <hi>our Lord.</hi> Amen.</p>
+            <p n="6">VI. If your buiſineſs be ſuch, that you cannot <hi>every day</hi> reade over your <hi>Duty to God</hi> and your <hi>Duty to your Neighbour;</hi> do not fail to <hi>doe it once or twice a week.</hi> And pauſe a while at the end of every particular, ſay<g ref="char:EOLhyphen"/>ing, <hi>This is my Duty; this I will doe by God's grace.</hi> And at the end of all (to make your reading the more effec<g ref="char:EOLhyphen"/>tual)
+<pb n="107" facs="tcp:34776:59"/>ſay, <hi>I heartily thank our Heavenly Fa<g ref="char:EOLhyphen"/>ther, that He hath cal<g ref="char:EOLhyphen"/>led me (upon theſe terms) into the ſtate of Salvation: and I be<g ref="char:EOLhyphen"/>ſeech Him to give me his grace, that I may continue in the ſame un<g ref="char:EOLhyphen"/>to my life's end.</hi>
+            </p>
+            <p n="7">VII. Reſolve alſo by this means to fit your ſelf to <hi>receive the Holy Com<g ref="char:EOLhyphen"/>munion as often as you can:</hi> remembring that, as by Baptiſm you are made a Member of
+<pb n="108" facs="tcp:34776:60"/>
+               <hi>Chriſt,</hi> and enter into the ſtate of Salvation; ſo by this Communion with Him, you conti<g ref="char:EOLhyphen"/>nue in that bleſſed ſtate. Which they cannot juſt<g ref="char:EOLhyphen"/>ly pretend unto, who conſtantly neglect to <hi>doe this in remembrance of Chriſt.</hi> They give no ſufficient teſtimony that they are of the Chriſtian Society; nor have any reaſon to look upon themſelves as li<g ref="char:EOLhyphen"/>ving Members of <hi>Chriſt,</hi> and in a ſtate of Sal<g ref="char:EOLhyphen"/>vation.</p>
+            <p n="8">
+               <pb n="109" facs="tcp:34776:60"/>
+VIII. And if you do not come up to your Reſo<g ref="char:EOLhyphen"/>lution in every thing, but find rather you have ſeverall ways fai<g ref="char:EOLhyphen"/>led in the performance of your Duty to God and your Neighbour; <hi>let not that hinder you from going to the Com<g ref="char:EOLhyphen"/>munion,</hi> when you have opportunity. But one<g ref="char:EOLhyphen"/>ly humble your ſelf the more before God by unfeigned Repentance: and go to ſtrengthen your Chriſtian Reſolu<g ref="char:EOLhyphen"/>tion,
+<pb n="110" facs="tcp:34776:61"/>by receiving the ſpiritual Food which <hi>Chriſt</hi> hath prepared for you; and beſeech Him to impart more ſpiritual ſtrength unto you.</p>
+            <p n="9">IX. And if you ſtill ſtart back again, <hi>let not that diſcourage you,</hi> nor make you think you ſhall ne<g ref="char:EOLhyphen"/>ver grow better. But hope in God rather, that by the conſtant and frequent uſe of this and all other holy means, you ſhall at laſt be ſtedfaſt and unmo<g ref="char:EOLhyphen"/>vable
+<pb n="111" facs="tcp:34776:61"/>in well-doing. You will never be ſo, if you leave off to com<g ref="char:EOLhyphen"/>municate; but you will grow more and more careleſs in other things: and therefore continue to doe this, as <hi>Chriſt</hi> bids you; and doe it for this end, that you may tie your ſelf faſter to Him, and increaſe in power and ſtrength to have victory, and to triumph over the De<g ref="char:EOLhyphen"/>vil, the World, and the Fleſh.</p>
+            <p n="10">
+               <pb n="112" facs="tcp:34776:62"/>
+X. And laſtly, <hi>be not hindred by Doubts and Scruples</hi> (wherewith many are wont to perplex and diſhearten themſelves) from re<g ref="char:EOLhyphen"/>ceiving the benefit of frequent Communion. I have not room to con<g ref="char:EOLhyphen"/>ſider them all in this lit<g ref="char:EOLhyphen"/>tle Book: but if any perſon cannot in this way which I have di<g ref="char:EOLhyphen"/>rected ſatisfy his Con<g ref="char:EOLhyphen"/>ſcience, let him not fail to follow the Counſel which is given him in
+<pb n="113" facs="tcp:34776:62"/>the Communion-Ser<g ref="char:EOLhyphen"/>vice, which is, to <hi>goe to his Guide, or ſome other diſcreet and lear<g ref="char:EOLhyphen"/>ned Miniſter of God's Word, and open his grief to him; that by the Mi<g ref="char:EOLhyphen"/>niſtry of God's Holy Word he may receive the benefit of Abſolution, to<g ref="char:EOLhyphen"/>gether with ghoſtly coun<g ref="char:EOLhyphen"/>ſel and advice, to the quieting of his Conſci<g ref="char:EOLhyphen"/>ence, and avoiding of all Scruple and Doubt<g ref="char:EOLhyphen"/>fulneſs.</hi>
+            </p>
+         </div>
+         <div n="9" type="chapter">
+            <pb n="114" facs="tcp:34776:63"/>
+            <head>
+               <hi>CHAP. IX.</hi> Touching Doubts and Scruples.</head>
+            <p>IT will doe ſome ſer<g ref="char:EOLhyphen"/>vice, perhaps, to well-diſpoſed Souls, if I ſhew how eaſily ſome of their moſt common Scruples may be ſatisfi<g ref="char:EOLhyphen"/>ed, (if they will but adviſe with God's Mini<g ref="char:EOLhyphen"/>ſters about them;) though I cannot inſiſt upon all the cauſes of their Doubtfulneſs. I will beſtow this Chap<g ref="char:EOLhyphen"/>ter
+<pb n="115" facs="tcp:34776:63"/>therefore upon that buiſineſs.</p>
+            <p n="1">I. We ordinarily hear this objected to us, when we tell men of their neglect of this Duty, <hi>I do not delight in that, nor in other ho<g ref="char:EOLhyphen"/>ly Duties; and there<g ref="char:EOLhyphen"/>fore to what purpoſe is it to doe them?</hi>
+            </p>
+            <p>The plain Anſwer is this; If you prefer the doing of your Duty be<g ref="char:EOLhyphen"/>fore your Pleaſure, or your Gain, then you cannot but take a ra<g ref="char:EOLhyphen"/>tional
+<pb n="116" facs="tcp:34776:64"/>ſatisfaction (if you underſtand your ſelf) in what you have done.</p>
+            <p>Nay, if you conſider it well, you will have a high Satisfaction; proportionable to the greatneſs of the Plea<g ref="char:EOLhyphen"/>ſure, or the worldly Advantage, which you denied for God's ſake.</p>
+            <p>Who, you muſt re<g ref="char:EOLhyphen"/>member, is ſatisfied in your doing what you can, (eſpecially when you are tempted ano<g ref="char:EOLhyphen"/>ther way;) and there<g ref="char:EOLhyphen"/>fore ſo ſhould you be too:</p>
+            <p>
+               <pb n="117" facs="tcp:34776:64"/>
+Hoping that by con<g ref="char:EOLhyphen"/>ſtant practice of Ver<g ref="char:EOLhyphen"/>tue, He will give you that Delight in it which you deſire.</p>
+            <p>I am ſure this is the way to get it, if it be to be had.</p>
+            <p n="2">II. Others complain of a great <hi>Dulneſs that is up<g ref="char:EOLhyphen"/>on them in holy Duties;</hi> which makes them have no liſt to them.</p>
+            <p>This doth not differ much from the former; and therefore I ſhall onely adde, that when
+<pb n="118" facs="tcp:34776:65"/>you have taken all the pains with your ſelf which I have directed in the foregoing Chap<g ref="char:EOLhyphen"/>ter, you ought not to be troubled at your Dulneſs: but aſcribe it either to your natural Conſtitution, or to ſome preſent Indiſpoſi<g ref="char:EOLhyphen"/>tion of body. Neither of which is in your power to remedy; but onely to ſubmit unto and endure with pa<g ref="char:EOLhyphen"/>tience.</p>
+            <p>In ſhort, let not this afflict you, much leſs hinder your Communi<g ref="char:EOLhyphen"/>cating;
+<pb n="119" facs="tcp:34776:65"/>if by your re<g ref="char:EOLhyphen"/>ceiving the Holy Com<g ref="char:EOLhyphen"/>munion, you find that you are made more carefull in your con<g ref="char:EOLhyphen"/>ſtant Duty.</p>
+            <p n="3">III. But the greateſt Diſ<g ref="char:EOLhyphen"/>couragement of all is this, <hi>I do not profit by the Holy Communion, nor grow one jot the bet<g ref="char:EOLhyphen"/>ter by receiving it ſo of<g ref="char:EOLhyphen"/>ten.</hi> Which language is not more common, then it is, for the moſt part, cauſeleſs. For as many people think they
+<pb n="120" facs="tcp:34776:66"/>do grow better, when they do not; ſo others think they do not, when they do: be<g ref="char:EOLhyphen"/>cauſe neither of them know what it is to be better.</p>
+            <p>Examine your ſelves therefore by your <hi>Duty to God</hi> and your <hi>Duty to your Neighbour;</hi> and try whether they be better performed or no, ſince you received the Holy Communion.</p>
+            <p>Let <hi>poor Servants,</hi> for inſtance, examine whether they order themſelves more lowly
+<pb n="121" facs="tcp:34776:66"/>and reverently to all their betters; and be carefull to be juſt and faithfull; to govern their tongues alſo, and to abſtain from evil ſpeaking as well as ſtea<g ref="char:EOLhyphen"/>ling, <hi>&amp;c.</hi> And more eſpecially, whether they grow more contented in that ſtate and condi<g ref="char:EOLhyphen"/>tion of life, into which God hath been pleaſed to call them. Theſe are ſubſtantial ſigns of <hi>growing better,</hi> by which you make a true judg<g ref="char:EOLhyphen"/>ment of your ſelves: and either be rid of
+<pb n="122" facs="tcp:34776:67"/>your Scruple, or know how to be rid of it, by endeavouring ſeriouſly to improve in ſuch Vertues.</p>
+            <p>In like manner, <hi>Children</hi> ſhould exa<g ref="char:EOLhyphen"/>mine themſelves about the ſame Reverence and Lowlineſs; and whether they honour their Parents more then heretofore; and ſubmit themſelves to all their Governours, Teachers, and ſpiritual Paſtours, or Maſters.</p>
+            <p>And all <hi>Young peo<g ref="char:EOLhyphen"/>ple</hi> ſhould examine,
+<pb n="123" facs="tcp:34776:67"/>whether they keep their Bodies more ſtrictly <hi>in temperance, ſobriety, and chaſtity;</hi> becauſe they have greateſt tempta<g ref="char:EOLhyphen"/>tions to the Vices that are contrary to theſe Chriſtian Duties.</p>
+            <p>And here it will be fit to mention one thing of which many com<g ref="char:EOLhyphen"/>plain, that <hi>they are trou<g ref="char:EOLhyphen"/>bled with the motions of carnal Luſts,</hi> unto which Youth is natu<g ref="char:EOLhyphen"/>rally prone.</p>
+            <p>The Anſwer is, that it cannot be otherwiſe,
+<pb n="124" facs="tcp:34776:68"/>if they be in health: and therefore there needs the greater care and diligence to pre<g ref="char:EOLhyphen"/>ſerve themſelves pure and undefiled. Which they may doe, though they feel ſuch Motions, if ſo be they do not fol<g ref="char:EOLhyphen"/>low them, nor ſuffer themſelves to be led by them to any act which God hath forbidden.</p>
+            <p>That's all you pro<g ref="char:EOLhyphen"/>miſe in Baptiſm, <hi>to re<g ref="char:EOLhyphen"/>nounce the Luſts of the fleſh, ſo as not to follow them, nor be led by them.</hi> Luſts, that is, Deſires,
+<pb n="125" facs="tcp:34776:68"/>you may have, and will feel, and they cannot be perfectly ſubdued: but they do not defile you, if they do not obtain your Conſent to them. And all you have to doe, is, to refuſe to follow them whether they would carry you; and to reſolve not to ſatisfy them in any way, but that which God al<g ref="char:EOLhyphen"/>lows.</p>
+            <p>And after the ſame manner you muſt exa<g ref="char:EOLhyphen"/>mine your ſelves about your <hi>Duty to God.</hi>
+               <pb n="126" facs="tcp:34776:69"/>Whether you believe more heartily and firm<g ref="char:EOLhyphen"/>ly what <hi>Chriſt</hi> hath taught you in his Go<g ref="char:EOLhyphen"/>ſpel, and are verily per<g ref="char:EOLhyphen"/>ſuaded of it, ſo that you fear to offend Him; and eſteem his Promiſes far above all Riches; and think your ſelves exceeding rich in Faith and Hope, though o<g ref="char:EOLhyphen"/>therwiſe you be poor and low in the World. <hi>Theſe are the beſt ſigns of improvement.</hi>
+            </p>
+         </div>
+         <div n="10" type="chapter">
+            <pb n="127" facs="tcp:34776:69"/>
+            <head>
+               <hi>CHAP. X.</hi> Directions in caſe of frequent Relapſes into Sin.</head>
+            <p>BUT ſuppoſe a man frequently relapſe into thoſe Sins which he conſtantly reſolves againſt, and ſolemnly promiſes to forſake; what ſhall he doe in that caſe?</p>
+            <p>To this I anſwer; I. That as it is his du<g ref="char:EOLhyphen"/>ty to judge and con<g ref="char:EOLhyphen"/>demn
+<pb n="128" facs="tcp:34776:70"/>himſelf ſeverely for it: ſo I think this ought to be a part of the Sentence he pro<g ref="char:EOLhyphen"/>nounces againſt himſelf, to judge himſelf un<g ref="char:EOLhyphen"/>worthy to partake of the Holy Communion. For ſo the Church would judge, if it knew what he was, and did exerciſe its di<g ref="char:EOLhyphen"/>ſcipline upon ſuch Of<g ref="char:EOLhyphen"/>fenders.</p>
+            <p n="2">II. And therefore, looking upon himſelf to be as vile as a Dog that returns to his Vo<g ref="char:EOLhyphen"/>mit,
+<pb n="129" facs="tcp:34776:70"/>let him according<g ref="char:EOLhyphen"/>ly refrain from the Ta<g ref="char:EOLhyphen"/>ble of the Lord; till he be ſufficiently hum<g ref="char:EOLhyphen"/>bled, and ſo ſenſible of his Sin, and of his Dan<g ref="char:EOLhyphen"/>ger, as to grow more carefull, and better re<g ref="char:EOLhyphen"/>ſolved.</p>
+            <p n="3">III. Which it is to be hoped he will be, if he for this reaſon, and no other, forbear to approach thither; becauſe he looks upon himſelf as too vile to enjoy ſuch a privilege: not ſtaying away out
+<pb n="130" facs="tcp:34776:71"/>of careleſneſs, and loth<g ref="char:EOLhyphen"/>neſs to take pains with himſelf, much leſs de<g ref="char:EOLhyphen"/>ſpair of God's Mercy; but merely out of a ſenſe of his Undeſer<g ref="char:EOLhyphen"/>vings, and by way of deep Humiliation, and to puniſh himſelf, for making no better uſe of his Saviour's Love and Kindneſs to him.</p>
+            <p n="4">IV. If this will not doe, he muſt adde ſome extraordinary means of afflicting his Soul, as the Scripture ſpeaks; by judging himſelf un<g ref="char:EOLhyphen"/>worthy
+<pb n="131" facs="tcp:34776:71"/>to eat or drink, or enjoy any of the good things of this World: and according<g ref="char:EOLhyphen"/>ly caſting down himſelf upon the Earth before God, with faſting, weeping, and mour<g ref="char:EOLhyphen"/>ning; bewailing and lamenting his ſad con<g ref="char:EOLhyphen"/>dition, as we are wont to do a Friend, when we fear he is a-dying, or in great danger of it.</p>
+            <p n="5">V. And if ſtill he find he is not ſafe, he muſt after all adviſe with ſome diſcreet Mi<g ref="char:EOLhyphen"/>niſter
+<pb n="132" facs="tcp:34776:72"/>of God's Word, as with a Spiritual Phyſician; deſiring to know what courſe to take, that he may get the maſtery of thoſe unruly Luſts which are too hard for him.</p>
+            <p n="6">VI. And when he comes for this ghoſtly Counſel and Advice, let him not be aſhamed plainly to confeſs his Sins, and to open the whole ſtate of his Soul before him whom he conſults: relating how, and by what means, he
+<pb n="133" facs="tcp:34776:72"/>comes to be thus intan<g ref="char:EOLhyphen"/>gled in the Snare of the Devil, that he cannot get out of it.</p>
+            <p n="7">VII. Be ſure you con<g ref="char:EOLhyphen"/>quer the lothneſs you will find in your ſelf to make this Diſcovery, for fear it diſgrace you in his opinion. And convince your ſelf, that you ought the rather to confeſs your Sins inge<g ref="char:EOLhyphen"/>nuouſly, that you may take ſhame to your ſelf, and lay your ſelf low in the preſence of God and his Miniſter.</p>
+            <p>
+               <pb n="134" facs="tcp:34776:73"/>
+               <hi>Doe it as a part of your Humiliation.</hi>
+            </p>
+            <p n="8">VIII. Whereby he will be able to judge what Remedies are moſt proper for your Cure, when he knows the cauſe and the root of your Diſeaſe. When you deal ſincerely with him, he will be able to tell you of what nature and degree your Sin is, and whence it proceeds: whether it be from Idle<g ref="char:EOLhyphen"/>neſs, or Ill company, or Careleſneſs in your De<g ref="char:EOLhyphen"/>votion, or Neglect of
+<pb n="135" facs="tcp:34776:73"/>ſerious thoughts to quicken your belief, to call to remembrance your Obligations, and to put your ſelf in mind of the great Account you muſt give; or from too much Confidence of your ſelf, want of Fear and Caution, not watching over your eyes, or the door of your lips, and abun<g ref="char:EOLhyphen"/>dance of other ſuch like things; which he may obſerve, and ac<g ref="char:EOLhyphen"/>cordingly give you his Directions.</p>
+            <p n="9">
+               <pb n="136" facs="tcp:34776:74"/>
+IX. And be ſure you ſubmit to his Preſcrip<g ref="char:EOLhyphen"/>tions, and be very care<g ref="char:EOLhyphen"/>full to follow them: for this is the laſt Remedy, which you ought to uſe with thankfulneſs to God for it, and with fear and trembling leſt you ſhould not be the better by it.</p>
+            <p>Suppoſe a man had the Falling-ſickneſs, what would he not give, or doe, or ſuffer, to be freed from it, ra<g ref="char:EOLhyphen"/>ther then be in conti<g ref="char:EOLhyphen"/>nual danger of falling
+<pb n="137" facs="tcp:34776:74"/>into the fire , or wa<g ref="char:EOLhyphen"/>ter, or other miſchief? Make this your own caſe: for your fre<g ref="char:EOLhyphen"/>quent falling into Sin, notwithſtanding your reſolutions and ingage<g ref="char:EOLhyphen"/>ments, is far more dreadfull and dange<g ref="char:EOLhyphen"/>rous: and no means ought to be refuſed for a cure of ſo great an evil.</p>
+         </div>
+         <div n="11" type="chapter">
+            <pb n="138" facs="tcp:34776:75"/>
+            <head>
+               <hi>CHAP. XI.</hi> The Duties of Children.</head>
+            <p>THIS Book being intended for Be<g ref="char:EOLhyphen"/>ginners, and ſuch as may be ſuppoſed to have leaſt knowledge of their Duty; I ſhall conclude it with a few Advices to <hi>Children,</hi> to <hi>poor Servants,</hi> and to all ſorts of <hi>Young people.</hi>
+            </p>
+            <p>The Duty of <hi>Chil<g ref="char:EOLhyphen"/>dren</hi> is comprehended in two words, to <hi>ho<g ref="char:EOLhyphen"/>nour,</hi>
+               <pb n="139" facs="tcp:34776:75"/>and to <hi>obey</hi> their Parents. Therefore re<g ref="char:EOLhyphen"/>member,</p>
+            <p n="1">I. <hi>Firſt,</hi> It is your Du<g ref="char:EOLhyphen"/>ty to <hi>Honour your Pa<g ref="char:EOLhyphen"/>rents;</hi> which is the firſt of all the Command<g ref="char:EOLhyphen"/>ments of the Second Table: And conſiſts,</p>
+            <p n="1">1. In an Eſteem of them as your Superiours and greateſt Benefac<g ref="char:EOLhyphen"/>tours; becauſe, under God, they were the Au<g ref="char:EOLhyphen"/>thours of your Being, and took care of your Education, when you
+<pb n="140" facs="tcp:34776:76"/>could not look after your ſelves.</p>
+            <p n="2">2. In a reverent Be<g ref="char:EOLhyphen"/>haviour towards them, even when they do not perform their Duty; but provoke you to wrath, by their peeviſh croſneſs.</p>
+            <p n="3">3. In requiting their Love, by ſupplying their neceſſities; if they fall into a low condi<g ref="char:EOLhyphen"/>tion, and you be able to ſupport them. Reade I <hi>Tim.</hi> V. 4. XV. <hi>Matt.</hi> 5, 6.</p>
+            <p n="4">4. In bearing with their Infirmities, either
+<pb n="141" facs="tcp:34776:76"/>of body or mind; eſpe<g ref="char:EOLhyphen"/>cially in their old age, or declining years.</p>
+            <p n="2">II. <hi>Secondly, Obey your Parents,</hi> (VI. <hi>Epheſ.</hi> 1.) ſo as to be ſubject to them, II. <hi>Luk.</hi> 51. That is,</p>
+            <p n="1">1. Be ſubject to their good Inſtructions and Admonitions; to which you ought to liſten di<g ref="char:EOLhyphen"/>ligently.</p>
+            <p n="2">2. To their Com<g ref="char:EOLhyphen"/>mands; when they bid you doe any thing that is not contrary to
+<pb n="142" facs="tcp:34776:77"/>the Divine Command<g ref="char:EOLhyphen"/>ments.</p>
+            <p n="3">3. To their Correc<g ref="char:EOLhyphen"/>tions alſo for your faults; to which you ought reverently to ſubmit. XII. <hi>Hebr.</hi> 9.</p>
+            <p n="4">4. And to their Di<g ref="char:EOLhyphen"/>rections alſo about the choice of your Calling; if you have not a natu<g ref="char:EOLhyphen"/>ral averſation to it.</p>
+            <p n="5">5. But eſpecially in the buiſineſs of Marri<g ref="char:EOLhyphen"/>age; in which Parents have always had a right to diſpoſe of their Chil<g ref="char:EOLhyphen"/>dren. Not indeed to force them to marry
+<pb n="143" facs="tcp:34776:77"/>one whom they cannot love; but to oblige them to endeavour to love thoſe whom they recommend to their choice.</p>
+            <p>And when you can<g ref="char:EOLhyphen"/>not bring your ſelf to a compliance with their deſires in that point; you muſt with due re<g ref="char:EOLhyphen"/>verence and reſpect: diſ<g ref="char:EOLhyphen"/>ſent from them, and humbly beſeech them to preſs you no far<g ref="char:EOLhyphen"/>ther.</p>
+            <p>If they will not har<g ref="char:EOLhyphen"/>ken to your repeated requeſts, you are not
+<pb n="144" facs="tcp:34776:78"/>bound (or rather, you are bound not) to fol<g ref="char:EOLhyphen"/>low their directions in ſuch a caſe. But, on the other ſide, do not marry any body elſe, without their conſent: unleſs they be ſo unrea<g ref="char:EOLhyphen"/>ſonable, that they will let you marry none at all; and you find a ne<g ref="char:EOLhyphen"/>ceſſity of it, to prevent your being led away, contrary to your Vow in Baptiſm, by fleſhly Luſts.</p>
+            <p>In that caſe repair to the Magiſtrate or your Miniſter, (who are <hi>com<g ref="char:EOLhyphen"/>mon
+<pb n="145" facs="tcp:34776:78"/>Parents,</hi>) and let them deal with them: and if they cannot pre<g ref="char:EOLhyphen"/>vail, I have no more to ſay about your Obedi<g ref="char:EOLhyphen"/>ence in this particular; uſe your liberty pru<g ref="char:EOLhyphen"/>dently, and with good advice of Friends, and due reſpect to your Pa<g ref="char:EOLhyphen"/>rents.</p>
+            <p>But (as the Com<g ref="char:EOLhyphen"/>mon-Prayer-Book ex<g ref="char:EOLhyphen"/>horts you in the Office of <hi>Matrimony</hi>) <hi>do not enterpriſe nor take in hand ſuch a weighty thing as Marriage, un<g ref="char:EOLhyphen"/>adviſedly, lightly, or
+<pb n="146" facs="tcp:34776:79"/>wantonly, meerly to ſa<g ref="char:EOLhyphen"/>tisfy carnal luſts and appetites; (like brute Beaſts that have no un<g ref="char:EOLhyphen"/>derſtanding;) but re<g ref="char:EOLhyphen"/>verently, diſcreetly, ad<g ref="char:EOLhyphen"/>viſedly, and in the fear of God, duly conſidering for what ends it was or<g ref="char:EOLhyphen"/>dained:</hi> and then you cannot doe amiſs.</p>
+            <p>Be carefull in the performance of theſe Duties; and God (be<g ref="char:EOLhyphen"/>fore whom ſuch things are good and accepta<g ref="char:EOLhyphen"/>ble) will give you his Bleſſing. Reade III. <hi>Ec<g ref="char:EOLhyphen"/>cleſiaſticus,</hi>
+               <pb n="147" facs="tcp:34776:79"/>beginning, unto <hi>v.</hi> 17.</p>
+         </div>
+         <div n="12" type="chapter">
+            <head>
+               <hi>CHAP. XII.</hi> The Duties of Servants.</head>
+            <p>THough <hi>Servants</hi> be not now mere Slaves and Bond<g ref="char:EOLhyphen"/>men, as they were in the Apoſtles days; yet they are in a ſtate of ſubjection, and are tied to ſuch Obedience as we find enjoyned in the Apoſtolical Wri<g ref="char:EOLhyphen"/>tings; even for this
+<pb n="148" facs="tcp:34776:80"/>reaſon, becauſe they are now in a far bet<g ref="char:EOLhyphen"/>ter condition. Harken therefore to your Du<g ref="char:EOLhyphen"/>ty, as it is plainly ſet forth in the Holy Scrip<g ref="char:EOLhyphen"/>ture. And remember,</p>
+            <p n="1">I. Firſt of all, that you are bound to ſtudy to pleaſe your Maſters and Miſtreſſes, by doing as they bid you, in their buiſineſs wherein they imploy you. II. <hi>Titus</hi> 9. A branch of which is, (as you will find in that place) not to contra<g ref="char:EOLhyphen"/>dict
+<pb n="149" facs="tcp:34776:80"/>them, and ſtand diſputing with them. Much leſs ought you to I be ſaucy and irreverent in your Anſwers, or in your Behaviour towards them, 1 <hi>Tim.</hi> VI. 1.</p>
+            <p n="2">II. Remember alſo to be Faithfull in your truſt, and never to deceive them in the ſmalleſt matter; but be ſure <hi>to ſhew all good fidelity,</hi> as the Apoſtle there tea<g ref="char:EOLhyphen"/>ches you. II. <hi>Tit.</hi> 10.</p>
+            <p n="3">
+               <pb n="150" facs="tcp:34776:81"/>
+III. Part of which Fide<g ref="char:EOLhyphen"/>lity is, to be diligent in your buiſineſs, and to diſpatch it as ſoon as you can: and to be ſolicitous alſo to doe your work well; which <hi>S. Peter</hi> and <hi>S. Paul</hi> ſeem to mean, when they bid you ſerve them <hi>with all fear,</hi> 1 <hi>Pet.</hi> II. 18. and <hi>with fear and trembling,</hi> VI. <hi>Epheſ.</hi> 5.</p>
+            <p n="4">IV. And both this Dili<g ref="char:EOLhyphen"/>gence,
+<pb n="151" facs="tcp:34776:81"/>and Solicitude, and Truſtineſs, muſt be performed not onely when they have their eye upon you; but when their back is tur<g ref="char:EOLhyphen"/>ned, and they are ab<g ref="char:EOLhyphen"/>ſent from you. VI. <hi>E<g ref="char:EOLhyphen"/>pheſ.</hi> 6. III. <hi>Coloſſ.</hi> 22. If you gad abroad, or ſlacken your labour and care, when they are not at home, or do not ſee you; you do not ſerve them as Chriſtians, that ſtudy to pleaſe God, but as vile Slaves, and Men<g ref="char:EOLhyphen"/>pleaſers, that mind no<g ref="char:EOLhyphen"/>thing
+<pb n="152" facs="tcp:34776:82"/>but to avoid their anger.</p>
+            <p n="5">V. Be content alſo with your Allowance; and ſubmit to ſuch Re<g ref="char:EOLhyphen"/>ſtraints as they lay up<g ref="char:EOLhyphen"/>on you: which ſeems to be included in the Apoſtolical Precept be<g ref="char:EOLhyphen"/>fore mentioned, II. <hi>Tit.</hi> 10. For more then this, you ought to take their hard Words, nay and Corrections, pa<g ref="char:EOLhyphen"/>tiently. I cannot ſay, but you may ſeek a re<g ref="char:EOLhyphen"/>medy from your Go<g ref="char:EOLhyphen"/>vernours and theirs, if
+<pb n="153" facs="tcp:34776:82"/>they abuſe you; but a Blow that does no hurt, much more an angry Chiding, ſhould not ſeem any great matter to you: But you had better bear it, ſaying nothing, or meekly praying them to ſpare you, then increaſe their wrath by anſwering a<g ref="char:EOLhyphen"/>gain angrily. Howſoe<g ref="char:EOLhyphen"/>ver all ill words are ut<g ref="char:EOLhyphen"/>terly unlawfull. Reade 1 <hi>Pet.</hi> II. 18.</p>
+            <p n="6">VI. The Apoſtles alſo would have you to
+<pb n="154" facs="tcp:34776:83"/>ſerve them <hi>with good will,</hi> VI. <hi>Epheſ.</hi> 7. and <hi>whatſoever you doe, to doe it heartily,</hi> III. <hi>Co<g ref="char:EOLhyphen"/>loſſ.</hi> 23. One note of which is, when you go about your buiſineſs chearfully, and do not grumble at your work; much leſs grumble at this, that you are Ser<g ref="char:EOLhyphen"/>vants, and not as good as thoſe whom you ſerve.</p>
+            <p>It is very uncomfor<g ref="char:EOLhyphen"/>table to your Maſters, as well as your ſelves, when you go about your work with a diſ<g ref="char:EOLhyphen"/>contented
+<pb n="155" facs="tcp:34776:83"/>ſpirit and a ſour heart, lowring and pouting, as we ſpeak: which proceeds from hence, that you forget you are ſerving the Lord, when you are diligent in their buiſi<g ref="char:EOLhyphen"/>neſs, and look upon your ſelves onely as Servants of Men. This the Apoſtles correct, when they bid you be obedient to your Ma<g ref="char:EOLhyphen"/>ſters <hi>as unto Chriſt: Not with eye-ſervice, as men<g ref="char:EOLhyphen"/>pleaſers, but as the ſer<g ref="char:EOLhyphen"/>vants of Chriſt; doing the will of God from the
+<pb n="156" facs="tcp:34776:84"/>heart: With good will doing ſervice, as unto the Lord, and not unto men.</hi> VI. <hi>Epheſ.</hi> 5, 6, 7. Where he <hi>four</hi> times (within the compaſs of 3 verſes) puts you in mind of this, that you are doing God's will, and ſerving the Lord <hi>Chriſt;</hi> when you are doing their buiſineſs which they enjoyn you.</p>
+            <p>If you think of this, you will not goe about it heavily, and diſcon<g ref="char:EOLhyphen"/>tentedly: eſpecially if you conſider the motive
+<pb n="157" facs="tcp:34776:84"/>whereby the Apoſtle incourages you; <hi>know<g ref="char:EOLhyphen"/>ing that whatſoever good thing a man doeth,</hi> (though in the meaneſt place,) <hi>the ſame ſhall he receive of the Lord, whe<g ref="char:EOLhyphen"/>ther he be bond or free.</hi> VI. <hi>Epheſ.</hi> 8. <hi>Knowing that of the Lord ye ſhall receive the reward of the inheritance: for ye ſerve the Lord Chriſt.</hi> III. <hi>Co<g ref="char:EOLhyphen"/>loſſ.</hi> 24.</p>
+         </div>
+         <div n="13" type="chapter">
+            <pb n="158" facs="tcp:34776:85"/>
+            <head>
+               <hi>CHAP. XIII.</hi> Advices to all Young perſons.</head>
+            <p n="1">I. IT is of the greateſt conſequence, to be<g ref="char:EOLhyphen"/>gin well. And there<g ref="char:EOLhyphen"/>fore at your firſt ſet<g ref="char:EOLhyphen"/>ting out into the World, take a ſpecial care, leſt you con<g ref="char:EOLhyphen"/>tract any evil habit; eſpecially of <hi>Idleneſs,</hi> the bane of Youth: and leſt you entertain any prejudices againſt
+<pb n="159" facs="tcp:34776:85"/>things, before you be able to judge; as we ſee too many have done againſt the Common Prayers of the Church; which they abhorr they know not why, merely from an early diſguſt they took to them, be<g ref="char:EOLhyphen"/>fore they could diſtin<g ref="char:EOLhyphen"/>guiſh between good and evil.</p>
+            <p n="2">II. And check your de<g ref="char:EOLhyphen"/>ſire of <hi>Pleaſure,</hi> which now above all other times will intice you: and of <hi>Novelty</hi> alſo,
+<pb n="160" facs="tcp:34776:86"/>which is comprehen<g ref="char:EOLhyphen"/>ded in the <hi>youthfull Luſts,</hi> as we render the words, ſpoken of in 2 <hi>Tim.</hi> II. 22. un<g ref="char:EOLhyphen"/>to which mankind is ſtrangely prone in their inconſiderate age, loa<g ref="char:EOLhyphen"/>thing ancient forms, and craving new enter<g ref="char:EOLhyphen"/>tainment for their fan<g ref="char:EOLhyphen"/>cies.</p>
+            <p n="3">III. <hi>Avoid Harlots,</hi> as you would the Plague: remembring the repea<g ref="char:EOLhyphen"/>ted cautions and admo<g ref="char:EOLhyphen"/>nitions, which the Wiſe man gives to his Son
+<pb n="161" facs="tcp:34776:86"/>about this matter. Reade them ſeriouſly, II. <hi>Prov.</hi> 18, 19. V. <hi>Prov.</hi> 3, 4, 5. VII. the whole Chap<g ref="char:EOLhyphen"/>ter: and follow his counſels, <hi>leſt thou mourn at the laſt, when thy fleſh and thy body are conſu<g ref="char:EOLhyphen"/>med, ſaying, How have I hated inſtruction, and my heart deſpiſed re<g ref="char:EOLhyphen"/>proof; and have not obeyed the voice of my teachers, nor inclined my ear to them that in<g ref="char:EOLhyphen"/>ſtructed me?</hi>
+            </p>
+            <p n="4">IV. In order to Chaſtity<g ref="char:punc">▪</g>
+               <pb n="162" facs="tcp:34776:87"/>
+               <hi>be exactly temperate</hi> in meat and drink. Drink no wine; which will adde fire to fire: ſtudy hard; or uſe your ſelves to labour, and watch<g ref="char:EOLhyphen"/>ings: avoid all provo<g ref="char:EOLhyphen"/>cations to your carnal appetite.</p>
+            <p n="5">V. Take heed what <hi>Friendſhips</hi> you con<g ref="char:EOLhyphen"/>tract: for Youth is prone to familiarity, and thereby drawn ea<g ref="char:EOLhyphen"/>ſily into ill company.</p>
+            <p n="6">
+               <pb n="163" facs="tcp:34776:87"/>
+VI. <hi>Reverence your El<g ref="char:EOLhyphen"/>ders,</hi> XIX. <hi>Levit.</hi> 32. 1 <hi>Pet.</hi> V. 5, 6. particu<g ref="char:EOLhyphen"/>larly your Tutors and Guardians, who are in ſtead of Parents. Which Reverence is to be ex<g ref="char:EOLhyphen"/>preſſed not merely by your outward Behavi<g ref="char:EOLhyphen"/>our, and in your Lan<g ref="char:EOLhyphen"/>guage; but in deſiring their Advice, harke<g ref="char:EOLhyphen"/>ning to their Coun<g ref="char:EOLhyphen"/>ſels, enterpriſing no<g ref="char:EOLhyphen"/>thing without their Di<g ref="char:EOLhyphen"/>rection, and ſubmitting to their Reprehenſion.</p>
+            <p n="7">
+               <pb n="164" facs="tcp:34776:88"/>
+VII. In order to which, <hi>be ſober-minded,</hi> as S. <hi>Paul</hi> exhorts you II. <hi>Tit.</hi> 6. Whereby he means either <hi>Seriouſ<g ref="char:EOLhyphen"/>neſs,</hi> and the <hi>ſtudy of Diſcretion;</hi> or <hi>Humili<g ref="char:EOLhyphen"/>ty</hi> and <hi>Modeſty.</hi> Which Modeſty is an excee<g ref="char:EOLhyphen"/>ding great ornament of Youth; an indication alſo of a good Mind, and a hopefull bloſſom of excellent fruit; as one of the Ancients ſpeaks. But it doth not conſiſt merely in
+<pb n="165" facs="tcp:34776:88"/>your Looks; but in your low opinion of your ſelves, ſenſe of your imprudence and weakneſs, and in a humble attention to the opinions and coun<g ref="char:EOLhyphen"/>ſels of your Elders.</p>
+            <p n="8">VIII. Finally, remember that Youth is like the Spring-time, which will ſoon be over; and if you onely play in it, and take no care to ſow good ſeeds of Wiſedom and Piety, you will loſe the opportunity of
+<pb n="166" facs="tcp:34776:89"/>making proviſion for a happy life.</p>
+            <p>Of this you are in great danger; becauſe there is nothing to which young men are more prone, then to ſquander away their time. Be ſerious there<g ref="char:EOLhyphen"/>fore and conſiderate, that you may not be undone by the folly of Youth: which, as <hi>So<g ref="char:EOLhyphen"/>lomon</hi> notes, inclines men ſo eagerly to fol<g ref="char:EOLhyphen"/>low their own humour in every thing, that they do not love to have any check in
+<pb n="167" facs="tcp:34776:89"/>their mirth and jollity.</p>
+            <p>That which will check them moſt is the thoughts of the future, eſpecially the remem<g ref="char:EOLhyphen"/>brance (as he there ob<g ref="char:EOLhyphen"/>ſerves, XI. <hi>Eccles.</hi> 9.) of the account they muſt make. And there<g ref="char:EOLhyphen"/>fore I conclude with that advice,</p>
+            <p>
+               <hi>Rejoyce, O young man, in thy youth,</hi> &amp;c. <hi>But know that for all theſe things God will bring thee into judg<g ref="char:EOLhyphen"/>ment.</hi>
+            </p>
+         </div>
+         <div n="14" type="chapter">
+            <pb n="168" facs="tcp:34776:90"/>
+            <head>
+               <hi>CHAP. XIV.</hi> Directions about them that cannot reade.</head>
+            <p n="1">I. AS for thoſe who cannot reade themſelves, (which in our days are but few, bleſſed be God, in compariſon with former Ages,) their Maſters, or their Miſtreſſes, or their Fellow-ſervants, or ſome good Neigh<g ref="char:EOLhyphen"/>bour, or Relation, are deſired to be ſo chari<g ref="char:EOLhyphen"/>table, as to reade to
+<pb n="169" facs="tcp:34776:90"/>them their duty about this matter; ſhewing them the neceſſity, and the ends of it; and praying them to mark and obſerve what is read.</p>
+            <p n="2">II. Or if their Me<g ref="char:EOLhyphen"/>mories be very weak, tell them in ſhort, that <hi>they are bound by their Vow in Baptiſm to doe God's will, and keep his Commandments: and that this is one of his Commandments, that they ſhould commemo<g ref="char:EOLhyphen"/>rate his Love, by coming unto the Holy Commu<g ref="char:EOLhyphen"/>nion;
+<pb n="170" facs="tcp:34776:91"/>which will help them to doe the reſt of his will better.</hi>
+            </p>
+            <p n="3">III. Reade to them alſo their <hi>Baptiſmal Vow;</hi> together with their <hi>Duty to God,</hi> and their <hi>Duty to their Neighbour,</hi> as it is laid down in the Cate<g ref="char:EOLhyphen"/>chiſm: and ask them, if they intend to doe all this by God's gra<g ref="char:EOLhyphen"/>cious aſſiſtence.</p>
+            <p n="4">IV. If they conſent to it, tell them they ought to go and re<g ref="char:EOLhyphen"/>ceive <hi>Confirmation,</hi> as was ſaid before: and
+<pb n="171" facs="tcp:34776:91"/>then go to the Holy Communion, to thank God for calling them into this ſtate of Salva<g ref="char:EOLhyphen"/>tion by <hi>Jeſus Chriſt,</hi> and for working ſuch a good will in them; and to promiſe Him that they will continue his faithfull Servants to their lives end.</p>
+            <p n="5">V. And let them know, that if they can doe no more at the Ho<g ref="char:EOLhyphen"/>ly Communion, but onely give God thanks heartily for ſending his Son to die for them; and devote themſelves
+<pb n="172" facs="tcp:34776:92"/>unto Him in reſolution of ſincere Obedience; it will be acceptable to Him: and in time they will underſtand more, and doe this Duty bet<g ref="char:EOLhyphen"/>ter.</p>
+            <p n="6">VI. Therefore teach them, that the thoughts of their imperfections, and ignorance, ought not to diſcourage them from coming to the Communion: for the very doing of that which <hi>Chriſt</hi> commands, I mean, the Miniſter's taking Bread and Wine, bleſſing them, breaking
+<pb n="173" facs="tcp:34776:92"/>the one, and pouring out the other, giving them to his people, and their receiving theſe in remembrance of his Death and Paſſion, is a thing in it ſelf grate<g ref="char:EOLhyphen"/>full to Him. And if they know thus much, and with honeſt hearts give thanks to God, and promiſe Him to be his faithfull Servants; He will take it kindly, and increaſe his Graces in their hearts.</p>
+            <p n="7">VII. And that He may, tell them, that ſince they cannot reade,
+<pb n="174" facs="tcp:34776:93"/>they muſt be the more diligent in attending to what is read in the Church or in private; and to the Sermons they hear preached: laying up the principal things they obſerve, carefully in their hearts; that they may find them there upon occaſion.</p>
+            <p n="8">VIII. For which end Maſters and Miſtreſſes ſhould take care, their Servants may have time to go to Church: or rather, they ſhould ſee them go, and bring them thither; ſaying
+<pb n="175" facs="tcp:34776:93"/>with the holy men of God, <hi>I and my houſe will ſerve the Lord.</hi>
+            </p>
+            <p n="9">IX. And if they would help them to learn ſome ſhort Prayer by heart, beſides the <hi>Lord's Prayer;</hi> it would be a means to poſſeſs them with a ſenſe of their Duty, and to make them more con<g ref="char:EOLhyphen"/>fident of God's gracious aſſiſtence in the doing of it. Inſtruct them, at leaſt, after you have read to them their Du<g ref="char:EOLhyphen"/>ty to God, and their Duty to their Neigh<g ref="char:EOLhyphen"/>bour,
+<pb n="176" facs="tcp:34776:94"/>to ſay, <hi>Lord, have mercy upon me; and write all theſe thy Laws in my heart, I be<g ref="char:EOLhyphen"/>ſeech Thee:</hi> and this <hi>Collect,</hi>
+            </p>
+            <p>
+               <hi>O God, whoſe Bleſ<g ref="char:EOLhyphen"/>ſed Son was manifeſted, that He might deſtroy the works of the Devil, and make us the ſons of God, and heirs of eter<g ref="char:EOLhyphen"/>nal life; Grant me, I beſeech Thee, that ha<g ref="char:EOLhyphen"/>ving this hope, I may purify my ſelf, even as He is pure; that when He ſhall appear again with power and great
+<pb n="177" facs="tcp:34776:94"/>glory, I may be made like unto Him in his eternal and glorious Kingdom: where with Thee, O Father, and Thee, O Holy Ghoſt, He liveth and reigneth ever one God world without end.</hi> Amen.</p>
+            <p n="10">X. There is reaſon Maſters and Miſtreſſes ſhould be at this pains with their Servants who cannot reade; if they conſider how much bet<g ref="char:EOLhyphen"/>ter Servants they will be to them, when they are become the Ser<g ref="char:EOLhyphen"/>vants of God: and that
+<pb n="178" facs="tcp:34776:95"/>they themſelves have a Maſter in Heaven, who expects they ſhould not merely uſe their Bodies well, but look alſo af<g ref="char:EOLhyphen"/>ter their Souls; ſo far at leaſt, as to help them to the means of Chriſti<g ref="char:EOLhyphen"/>an Inſtruction.</p>
+            <p>This is a thing in<g ref="char:EOLhyphen"/>deed much neglected; and if their work be but well done, ſome Maſters and Miſtreſſes concern themſelves no farther. But ſuch per<g ref="char:EOLhyphen"/>ſons plainly declare, that they love them<g ref="char:EOLhyphen"/>ſelves better then God;
+<pb n="179" facs="tcp:34776:95"/>elſe they would not be ſatisfied till God's work was done alſo, and car<g ref="char:EOLhyphen"/>ried on together with their own.</p>
+         </div>
+         <div n="15" type="chapter">
+            <head>
+               <hi>CHAP. XV.</hi> Directions to thoſe that can reade.</head>
+            <p n="1">I. AS for thoſe who are able to reade, I need not, ſure, adviſe them to uſe that ability; but onely to uſe it well: avoiding vain and idle
+<pb n="180" facs="tcp:34776:96"/>(eſpecially all <hi>filthy</hi>) Books, and being con<g ref="char:EOLhyphen"/>verſant in thoſe that are good and profitable; ſuch as will improve their <hi>minds</hi> in uſefull knowledg, or excite in them devout <hi>affections</hi> towards God, or direct them in the <hi>practice</hi> of Juſtice and Mercy, of Temperance and Cha<g ref="char:EOLhyphen"/>ſtity, and of all other Chriſtian Vertues.</p>
+            <p n="2">II. But above all other Books, acquaint your ſelves with the Holy
+<pb n="181" facs="tcp:34776:96"/>Scriptures; which <hi>Ti<g ref="char:EOLhyphen"/>mothy</hi> (S. <hi>Paul</hi> ſays) <hi>had known from a child; and were able to make him wiſe unto Salvation, through faith which is in Chriſt Jeſus,</hi> 2 <hi>Tim.</hi> III. 15. Which is a high commendation of the <hi>Old</hi> Scriptures, and a great incourage<g ref="char:EOLhyphen"/>ment to ſtudy thoſe Ho<g ref="char:EOLhyphen"/>ly Books; from whence we may reap the greater benefit, now that we have the <hi>New</hi> Scriptures added to them, which contain <hi>the Faith in Chriſt Jeſus,</hi> which
+<pb n="182" facs="tcp:34776:97"/>the Apoſtle ſpeaks of.</p>
+            <p>You do but pretend to <hi>love God,</hi> (which you acknowledge is a part of the Duty you owe Him,) if you do not ſeek after his mind and will, which is one<g ref="char:EOLhyphen"/>ly to be found in the Holy Scriptures.</p>
+            <p n="3">III. And of all other parts of the Scripture, I have obſerved young people delight (as it is natural to doe) in reading the <hi>Hiſtorical</hi> Books of the Old Teſtament. Which
+<pb n="183" facs="tcp:34776:97"/>truly are writ with ſuch a ſpirit of Piety, as is to be found in no other Hiſtory; deſigning vi<g ref="char:EOLhyphen"/>ſibly theſe two things. <hi>Firſt,</hi> to inſtill into the people a belief of Di<g ref="char:EOLhyphen"/>vine Providence, which governs all things; and preſides not onely over Nations, but particular Perſons: who there<g ref="char:EOLhyphen"/>fore ought to have God in all their thoughts, to whom all events are aſcribed by the holy Hiſtory. And <hi>ſecondly,</hi> to nurſe them up in a ſenſe of the difference
+<pb n="184" facs="tcp:34776:98"/>of Good and Evil: the former of which always received remarkable te<g ref="char:EOLhyphen"/>ſtimonies of God's Fa<g ref="char:EOLhyphen"/>vour; and the other was ever attended with the effects of his ſevere Diſpleaſure.</p>
+            <p n="4">IV. Do not think there<g ref="char:EOLhyphen"/>fore that you have profitably read theſe Books, unleſs you come away from the reading of them more ſenſible of theſe <hi>two</hi> things, and more affected with them. Poſſeſſed, that
+<pb n="185" facs="tcp:34776:98"/>is, with a more lively apprehenſion of God's overruling Power and Providence, whereby all things are diſpoſed: and therefore reſolved to commit your ſelves unto Him in well-do<g ref="char:EOLhyphen"/>ing; and to make that difference between Good and Evil that He doth; reſting ſatisfied with what He is plea<g ref="char:EOLhyphen"/>ſed to order, when you have taken care to or<g ref="char:EOLhyphen"/>der your ſelves ſo, as to avoid what He hates, and to follow that which He loves.</p>
+            <p n="5">
+               <pb n="186" facs="tcp:34776:99"/>
+V. But above all other Books of the Old Te<g ref="char:EOLhyphen"/>ſtament, the <hi>Pſalms</hi> are of moſt general uſe: and therefore ordered by our Church to be read over publickly once every month. Some of which you would doe well to get by heart, that you may ſay them upon all occaſions, as anciently they were wont to doe: nothing being more ordinary then to hear the Husbandman chanting them as he
+<pb n="187" facs="tcp:34776:99"/>followed the Plow, the Seaman as he ſate at the Helm, the Wa<g ref="char:EOLhyphen"/>terman at his Oar, the Weaver at his Loom, the good Houſwife at her Spindle or her Wheel; nay, the poor Ditcher ſang them at his Spade, and the very Children in the ſtreets. In ſhort, they ſuckt theſe in with their Mothers milk, and from their very infancy, as ſoon as they could learn any thing, were taught a ſmattering of them,
+<pb n="188" facs="tcp:34776:100"/>before they could ſpeak perfectly: ſuch a love they had to the ſweet Muſick of theſe Holy Songs.</p>
+            <p n="6">VI. The very firſt of which will put you in mind of your Du<g ref="char:EOLhyphen"/>ty; and of the Hap<g ref="char:EOLhyphen"/>pineſs it will bring you if you doe it faithfully. Let that therefore, and the reſt that are of moſt ge<g ref="char:EOLhyphen"/>neral uſe, (and relate not merely to <hi>David</hi>'s preſent condition, or to ſome publick cala<g ref="char:EOLhyphen"/>mity,)
+<pb n="189" facs="tcp:34776:100"/>be read moſt frequently, and pon<g ref="char:EOLhyphen"/>dered moſt ſeriouſly. Such are the VIII. XV. XIX. XXXIII. XXXIV. CIII. CIV. CXIX. CXXXIX. CXLV. with many o<g ref="char:EOLhyphen"/>ther, which every one may obſerve for his own uſe: particular<g ref="char:EOLhyphen"/>ly the VII Penitential Pſalms; which are moſt proper when you are in a ſad afflicted con<g ref="char:EOLhyphen"/>dition, or bewail any Sin you have commit<g ref="char:EOLhyphen"/>ted, to which they may be alſo appli<g ref="char:EOLhyphen"/>ed.
+<pb n="190" facs="tcp:34776:101"/>They are the VI. XXXII. XXXVIII. LI. CII. CXXX. CXLIII.</p>
+            <p n="7">VII. But when all this is done, you muſt chiefly reade the Books of the <hi>New Teſtament,</hi> or <hi>Co<g ref="char:EOLhyphen"/>venant</hi> made with us in <hi>Jeſus Chriſt:</hi> to which the Books of the <hi>Old Teſtament</hi> re<g ref="char:EOLhyphen"/>fer you, as the per<g ref="char:EOLhyphen"/>fection of that Know<g ref="char:EOLhyphen"/>ledg which was but obſcurely delivered by them. And firſt, the <hi>Holy Goſpels,</hi> which moſtly contain the Hi<g ref="char:EOLhyphen"/>ſtory
+<pb n="191" facs="tcp:34776:101"/>of our Saviour's Birth, Life, Death, Reſurrection, and Aſ<g ref="char:EOLhyphen"/>cention: in all which principally obſerve the mighty power of God giving Teſtimony un<g ref="char:EOLhyphen"/>to Him, and declaring Him to be the Son of God. Whom there<g ref="char:EOLhyphen"/>fore you are bound to obey; and in order thereunto ſtudy what his Will is: which is moſt fully delivered in the Sermon on the Mount, recorded in the V. VI. and VII. Chapters of Saint <hi>Mat<g ref="char:EOLhyphen"/>thew.</hi>
+               <pb n="192" facs="tcp:34776:102"/>Reade theſe at leaſt once a week.</p>
+            <p n="8">VIII. Then follow the <hi>Acts of the Apoſtles;</hi> which abundantly de<g ref="char:EOLhyphen"/>clare their authority, by whoſe Miniſtry we have received the <hi>Go<g ref="char:EOLhyphen"/>ſpel;</hi> and bid us attend to their Inſtructions, which are left us in their <hi>Epiſtles,</hi> as the words of men divinely inſpired. And in theſe content your ſelves with thoſe parts of them which are moſt eaſy and plain, and
+<pb n="193" facs="tcp:34776:102"/>of general uſe and con<g ref="char:EOLhyphen"/>cernment: and meddle not preſently with thoſe which are hard and ob<g ref="char:EOLhyphen"/>ſcure, and which relate to ſome particular ca<g ref="char:EOLhyphen"/>ſes, which now are not ſo well known, as to make their ſenſe apparent to every one. For it is a very ill ſign, when you ſtand puzzling your ſelves about ſome dark paſ<g ref="char:EOLhyphen"/>ſages in the Apoſtolical Writings; when there are plain ones in abun<g ref="char:EOLhyphen"/>dance to exerciſe your thoughts. I will di<g ref="char:EOLhyphen"/>rect
+<pb n="194" facs="tcp:34776:103"/>you to ſome, that will be fitteſt for your Meditation. In the E<g ref="char:EOLhyphen"/>piſtle to the <hi>Romans</hi> reade often the XII. and XIII. Chapters; with the XIII. of the firſt to the <hi>Corinthians;</hi> the IV. V. VI. to the <hi>Epheſians;</hi> III. and IV. to the <hi>Coloſſians;</hi> IV. and V. of the firſt to the <hi>Theſſalonians;</hi> and (to omit others) the I. II. X. XI. XII. XIII. of the Epiſtle to the <hi>Hebrews;</hi> the whole Epiſtles of Saint <hi>James,</hi> and of Saint <hi>Peter.</hi>
+            </p>
+            <p>
+               <pb n="195" facs="tcp:34776:103"/>
+And when you reade them, let it be with a deſign to grow better, rather then more know<g ref="char:EOLhyphen"/>ing.</p>
+            <p>And then think you grow better, when you are made more hum<g ref="char:EOLhyphen"/>ble; more ſenſible of God's love, and your own undeſervings; more thankfull; more meek and patient; more ſubmiſſive to God's Providence, and to your Governours, whether civil or ſpiri<g ref="char:EOLhyphen"/>tual, private or pu<g ref="char:EOLhyphen"/>blick.</p>
+            <p n="9">
+               <pb n="196" facs="tcp:34776:104"/>
+IX. When you are thus diſpoſed, by theſe and ſuch like Chriſtian Ver<g ref="char:EOLhyphen"/>tues, you may venture to reade the harder parts of Scripture; and not be in danger to wreſt them (as thoſe doe who are ſettled upon no principles) to your own deſtruction. For then you will not be forward to frame a ſenſe of thoſe places out of your own head: but confeſs your igno<g ref="char:EOLhyphen"/>rance; and look up<g ref="char:EOLhyphen"/>on them as containing
+<pb n="197" facs="tcp:34776:104"/>things not neceſſary to be known: for all ne<g ref="char:EOLhyphen"/>ceſſary things are plain<g ref="char:EOLhyphen"/>ly ſet down; and per<g ref="char:EOLhyphen"/>haps ſome of thoſe ve<g ref="char:EOLhyphen"/>ry things about which you trouble your ſelves, are elſe-where delive<g ref="char:EOLhyphen"/>red in clearer words. As you may be ſatis<g ref="char:EOLhyphen"/>fied if you take the next opportunity, to conſult with thoſe whoſe lips are to preſerve knowledge.</p>
+            <p>Which is the beſt way to be reſolved in ſuch caſes.</p>
+            <p n="10">
+               <pb n="198" facs="tcp:34776:105"/>
+X. As for other good Books beſides the Scri<g ref="char:EOLhyphen"/>pture, you may find ſome time to reade them. And the leſs you have on other days, ſpend the <hi>Lord's days</hi> and other <hi>Holy days</hi> the more ſeri<g ref="char:EOLhyphen"/>ouſly in this work. When I would adviſe you to reade V. VI. and VII. of Saint <hi>Mat<g ref="char:EOLhyphen"/>thew;</hi> with ſome part of the <hi>Whole Duty of Man.</hi> And when you have made ſome pro<g ref="char:EOLhyphen"/>ficiency in knowledg,
+<pb n="199" facs="tcp:34776:105"/>reade Dr. <hi>Hammond</hi>'s PRACTICAL CA<g ref="char:EOLhyphen"/>TECHISM; where you will find that Ser<g ref="char:EOLhyphen"/>mon of <hi>Chriſt</hi>'s upon the Mount expounded.</p>
+            <p n="11">XI. But whatſoever god<g ref="char:EOLhyphen"/>ly Book you reade, whether the Holy Scri<g ref="char:EOLhyphen"/>ptures or any other, be ſure you indeavour to come away bettered by the reading of them. For if you get no good by them, that very thing will incline you, at laſt, to ſlight and neglect them: as many do, we
+<pb n="200" facs="tcp:34776:106"/>ſee, the hearing of good Sermons, becauſe they do not perceive, that they or others are at all the better for them; but after much hearing, there is little doeing of God's will.</p>
+            <p>But this the Scripture it ſelf foretold, and hath exactly deſcribed ſuch people, as are <hi>ever lear<g ref="char:EOLhyphen"/>ning, but never able to come to the knowledge of the truth.</hi> 2 <hi>Tim.</hi> III. 5, 6, 7. and intended here<g ref="char:EOLhyphen"/>by to breed in every one of us a due caution, leaſt we be of that unprofita<g ref="char:EOLhyphen"/>ble
+<pb n="201" facs="tcp:34776:106"/>number. Which you muſt prevent, by being more ſerious, attentive and diligent in reading holy Books for that end for which they were writ: and hearing Ser<g ref="char:EOLhyphen"/>mons, not for faſhion ſake, but that you may be taught, or remem<g ref="char:EOLhyphen"/>bred of your Duty; and excited or directed to doe it with greater care and conſtancy.</p>
+            <p n="12">XII. And if you meet with the very ſame thing over and over again, either in reading or hearing; do
+<pb n="202" facs="tcp:34776:107"/>not therefore nauſeate it, or grow weary of it, or paſs it by haſtily and careleſly: But rather look upon it as a very uſefull Truth, of which you have great need, becauſe it comes ſo of<g ref="char:EOLhyphen"/>ten in your way; and thankfully acknowledg<g ref="char:EOLhyphen"/>ing that God is very kind to you (in putting you ſo frequently in mind of that which is ſo neceſſary to your Salva<g ref="char:EOLhyphen"/>tion) give the greater heed to it, and ponder it with ſuch ſeriouſneſs, as a thing of that moment deſerves.</p>
+         </div>
+         <div n="16" type="chapter">
+            <pb n="203" facs="tcp:34776:107"/>
+            <head>
+               <hi>CHAP. XVI.</hi> A neceſſary qualification to receive benefit by all this.</head>
+            <p>IF every one had ſo much <hi>Humility,</hi> and ſuch a hearty deſire to be truly good, wrought in their Souls betime, they would reade and hear God's word to better purpoſe.</p>
+            <p n="1">I. Therefore Parents ſhould above all things inſtill this into their Children very early; how neceſſary it is, and
+<pb n="204" facs="tcp:34776:108"/>how much it becomes them to be humble: and that by no means they grow conceited of their own parts or underſtan<g ref="char:EOLhyphen"/>ding; but be deſirous to learn of every one, with ſimplicity and meekneſs, without any other deſign but to know their Duty.</p>
+            <p n="2">II. This we may be ſure would diſpoſe them to receive benefit by the Holy Scriptures, and by all other good inſtruc<g ref="char:EOLhyphen"/>tions: For it is the ve<g ref="char:EOLhyphen"/>ry qualification which
+<pb n="205" facs="tcp:34776:108"/>
+               <hi>Chriſt</hi> requires to make a perſon fit to be one of his Diſciples, <hi>that He firſt become like a little Child.</hi> XVIII. <hi>Matth.</hi> 3. There is no good to be done upon him in <hi>Chriſt</hi>'s School, unleſs he firſt learn to be humble, ſubject to his Teachers, ſimple hearted, and without guile, conten<g ref="char:EOLhyphen"/>ted with a little, hear<g ref="char:EOLhyphen"/>tily in love with thoſe that take care of him. And when he is thus freed from pride, am<g ref="char:EOLhyphen"/>bition, deſire of Riches, or any thing elſe but
+<pb n="206" facs="tcp:34776:109"/>onely of Knowledge (as little Children naturally are, till the ſeeds of thoſe vices be ſtirred up in them by others) he will be a fit ſoil to receive <hi>Chriſt</hi>'s heavenly Doc<g ref="char:EOLhyphen"/>trine.</p>
+            <p n="3">III. And doubtleſs he had reaſon to ſay it, who told this Nation long ago, that it is for want of acquainting Child<g ref="char:EOLhyphen"/>hood and Youth with ſuch plain Rules as this (which the Scripture it ſelf delivers for our right underſtanding it)
+<pb n="207" facs="tcp:34776:109"/>that the Scripture either ſeems obſcure and diffi<g ref="char:EOLhyphen"/>cult to them, or that they miſtake it, where it ſeems evident.</p>
+            <p n="4">IV. For when they grow to mens eſtate, or are engaged in worldly bui<g ref="char:EOLhyphen"/>ſineſs, or come to ho<g ref="char:EOLhyphen"/>nour, before they be acquainted with the Holy Scripture, and eſ<g ref="char:EOLhyphen"/>pecially theſe plain di<g ref="char:EOLhyphen"/>rections which it gives us for our profiting by it; one of theſe <hi>three</hi> things is the conſe<g ref="char:EOLhyphen"/>quence of it. The ſee<g ref="char:EOLhyphen"/>ming
+<pb n="208" facs="tcp:34776:110"/>difficulty of the Scripture either makes them to ſeek for other Rules, which they ap<g ref="char:EOLhyphen"/>prehend more eaſy; or 2. not to care for any Rule of Faith at all; or elſe 3. to transform this (which God hath given for the renewing his image in them) into the nature of their corrupt affections.</p>
+            <p n="5">V. Let this Leſſon there<g ref="char:EOLhyphen"/>fore, as He adviſes, of <hi>becoming like little Chil<g ref="char:EOLhyphen"/>dren,</hi> throughly be plan<g ref="char:EOLhyphen"/>ted in the hearts of Chil<g ref="char:EOLhyphen"/>dren,
+<pb n="209" facs="tcp:34776:110"/>and then <hi>Know<g ref="char:EOLhyphen"/>ledg</hi> in other parts of Scripture will grow up with them: and <hi>Faith</hi> thus planted in humili<g ref="char:EOLhyphen"/>ty, while their hearts are tender, (and eaſy to be wrought on by this plain and familiar Precept) will take deep root, and increaſe more and more, as they do, in ſtrength and ſtature. For though at the firſt their Faith be but as a grain of Mu<g ref="char:EOLhyphen"/>ſtard-ſeed, yet having in the Spring time got the ſtart of Pride and deſire of worldly wealth or
+<pb n="210" facs="tcp:34776:111"/>greatneſs, it will after<g ref="char:EOLhyphen"/>ward flouriſh in all hea<g ref="char:EOLhyphen"/>venly knowledge, and fructify in every good word and work.</p>
+            <p n="6">VI. And above all other pieces of <hi>Humility,</hi> it is abſolutely neceſſary that Children be brought up to <hi>a great reverence of God's Miniſters;</hi> and a high opinion of their Calling, Place and Per<g ref="char:EOLhyphen"/>ſons. If Parents or Guar<g ref="char:EOLhyphen"/>dians would teach them to honour them as their ſpiritual Fathers, and to look upon them as men
+<pb n="211" facs="tcp:34776:111"/>appointed by God to take care of their beſt part, their immortal Souls; and to bring Di<g ref="char:EOLhyphen"/>vine bleſſings to them; If they would tell them, Children, theſe are the men by whom you are baptized and made Chri<g ref="char:EOLhyphen"/>ſtians; by theſe you muſt therefore be inſtructed, and confirmed alſo in Religion, and aſſured more and more of God's bleſſing: it would have a mighty effect upon them, and diſpoſe them for all the good they may hereafter reape by
+<pb n="212" facs="tcp:34776:112"/>them. Whereas, thoſe words of reproach or un<g ref="char:EOLhyphen"/>dervaluing which they now daily hear, muſt needs have the quite contrary effect; or at leaſt for want of ſuch Admonitions, and fre<g ref="char:EOLhyphen"/>quent inculcating the reſpect, honour and e<g ref="char:EOLhyphen"/>ſteem which is due to God's Miniſters, they mind ſo little what they ſay, that when they be<g ref="char:EOLhyphen"/>come capable of it, they receive no benefit by them.</p>
+            <div type="prayer">
+               <pb n="213" facs="tcp:34776:112"/>
+               <head>A ſhort Prayer tor the Mor<g ref="char:EOLhyphen"/>ning.</head>
+               <p>
+                  <hi>ALmighty God and moſt mercifull Fa<g ref="char:EOLhyphen"/>ther, I moſt humbly bow down my ſelf be<g ref="char:EOLhyphen"/>fore Thee, to worſhip thy Divine Majeſty; by whom I was brought into the world, and have been preſerved and provided for all my life long, and now this laſt night (bleſ<g ref="char:EOLhyphen"/>ſed be thy Goodneſs) protected from all Dan<g ref="char:EOLhyphen"/>gers; and raiſed up in health and ſafety to ſee the light of another day.</hi>
+               </p>
+               <p>
+                  <pb n="214" facs="tcp:34776:113"/>
+I thank Thee, O Lord, for theſe and all the reſt of thy Mercies; eſpecially for thy ſingu<g ref="char:EOLhyphen"/>lar Love in <hi>Chriſt Je<g ref="char:EOLhyphen"/>ſus:</hi> beſeeching Thee to awaken and preſerve in me ſuch a lively ſenſe thereof, that I may ne<g ref="char:EOLhyphen"/>ver prove ungratefull to Him; but conſtantly doe Him all faithfull ſervice.</p>
+               <p>Particularly this day I earneſtly implore the aſſiſtence of his Holy Spirit, to inable me to keep thoſe Vows that are upon me, not to follow nor be led by worldly
+<pb n="215" facs="tcp:34776:113"/>and carnal Luſts; but to obey thy holy Will and Commandments, and to walk in the ſame all the days of my life.</p>
+               <p>Help me, Good Lord, in my place and con<g ref="char:EOLhyphen"/>dition, to perform my Duty towards Thee, and towards my Neigh<g ref="char:EOLhyphen"/>bour, with ſuch care, fidelity, and chearful<g ref="char:EOLhyphen"/>neſs, that I may with ſome confidence preſent my ſelf again before Thee in the Evening; and comfortably hope for thy continued good Providence over me.</p>
+               <p>
+                  <pb n="216" facs="tcp:34776:114"/>
+To which I humbly recommend thy Church and Houſhold; beſeech<g ref="char:EOLhyphen"/>ing Thee to keep it in thy true Religion, and to defend it evermore by thy mighty Power, through <hi>Jeſus Chriſt</hi> our Lord. In whoſe moſt bleſſed Name and words I ſtill beſeech Thee to be mercifull to me, and to all thy people, ſaying, <hi>Our Father,</hi> &amp;c.</p>
+            </div>
+            <div type="prayer">
+               <head>A ſhort Prayer for the Evening.</head>
+               <p>
+                  <hi>I</hi> Thank Thee, O Lord of Heaven
+<pb n="217" facs="tcp:34776:114"/>and Earth, that, by thy mercifull Provi<g ref="char:EOLhyphen"/>dence, I am here pro<g ref="char:EOLhyphen"/>ſtrate again before Thee: not onely in health and ſafety of body; but in integrity of heart, I hope, and with ſincere purpoſes to continue al<g ref="char:EOLhyphen"/>ways thy faithfull Ser<g ref="char:EOLhyphen"/>vant.</p>
+               <p>Pardon, O moſt mer<g ref="char:EOLhyphen"/>cifull Father, whatſoe<g ref="char:EOLhyphen"/>ver I have done or omitted this day, con<g ref="char:EOLhyphen"/>trary to my reſolutions and obligations. Pitty my great weakneſſes; and accept of my honeſt
+<pb n="218" facs="tcp:34776:115"/>endeavours to keep a good Conſcience void of offence, towards Thee, and towards Man.</p>
+               <p>Which that I may doe every day better and better, vouchſafe me the aſſiſtence of thy ſpecial Grace, to ſtreng<g ref="char:EOLhyphen"/>then me in the perfor<g ref="char:EOLhyphen"/>mance of all my Duty. That where I have been wont to ſlip, I may be more watchfull; and where I have been neg<g ref="char:EOLhyphen"/>ligent, I may uſe the greater diligence; and ſo continue thy Child, a lively Member of <hi>Chriſt,</hi>
+                  <pb n="219" facs="tcp:34776:115"/>and an Inheritour of thy heavenly Kingdom.</p>
+               <p>And hear the Prayers of thy whole Church, which have been made this day for every mem<g ref="char:EOLhyphen"/>ber of the ſame: eſpe<g ref="char:EOLhyphen"/>cially for our Sovereign Lord the <hi>KING;</hi> for all that miniſter under him, in holy or civil things; for all that are diſtreſſed in mind, body, or eſtate: beſee<g ref="char:EOLhyphen"/>ching Thee to diſpenſe thy Graces and Bleſ<g ref="char:EOLhyphen"/>ſings to every one of them ſutable to their ſeveral neceſſities.</p>
+               <p>
+                  <pb n="220" facs="tcp:34776:116"/>
+And be my merci<g ref="char:EOLhyphen"/>full Protectour all this night: and, after a re<g ref="char:EOLhyphen"/>freſhing Reſt, raiſe me up again in the morning with a thankfull heart to Thee for thy care over me; fully reſolved con<g ref="char:EOLhyphen"/>tinually to mortify all my evil and corrupt Af<g ref="char:EOLhyphen"/>fections, and daily to proceed in all Vertue and Godlineſs of li<g ref="char:EOLhyphen"/>ving, through <hi>Jeſus Chriſt</hi> our Saviour. In whoſe Name and words I commend my ſelf to thy mercy, ſaying, <hi>Our Father,</hi> &amp;c.</p>
+            </div>
+            <div type="prayer">
+               <pb n="221" facs="tcp:34776:116"/>
+               <head>A Prayer for one of riper years before the receiving of Baptiſm.</head>
+               <p>
+                  <hi>O</hi> Lord, the Crea<g ref="char:EOLhyphen"/>tour of the World, and Redeemer of Man<g ref="char:EOLhyphen"/>kind, I fall down be<g ref="char:EOLhyphen"/>fore Thee to acknowledge that I am thine; and to beſeech Thee, though I have offended Thee, to receive me into thy ſervice again.</p>
+               <p>Pardon, good Lord, all the Follies of my Childhood, with all the
+<pb n="222" facs="tcp:34776:117"/>Sins, Negligences and Ignorances of my riper years. Let them all be done away in that Fountaïn, which Thou haſt ſet open for us to waſh in, and be clean.</p>
+               <p>I deſire to be admit<g ref="char:EOLhyphen"/>ted thither; and intend there to devote my ſelf intirely to Thee: re<g ref="char:EOLhyphen"/>nouncing the Devil, the World, and the Fleſh; and reſolving obediently to keep thy holy will and Commandments, and to walk in the ſame all the days of my life.</p>
+               <p>Vouchſafe me, O Lord,
+<pb n="223" facs="tcp:34776:117"/>the aſſiſtence of thy Holy Spirit, that I may both ſeriouſly make, and faith<g ref="char:EOLhyphen"/>fully keep, thoſe holy Vows and Promiſes. Preſerve in me a perpetual remem<g ref="char:EOLhyphen"/>brance of them; that I may never, by any Sin, loſe ſo great a Grace as Thou intendeſt to beſtow upon me: but always con<g ref="char:EOLhyphen"/>tinue a lively Member of <hi>Chriſt,</hi> and an Heir of his heavenly Kingdom. To which I beſeech Thee at laſt to bring me, through the Merits of <hi>Chriſt Jeſus.</hi> Amen.</p>
+            </div>
+            <div type="prayer">
+               <pb n="224" facs="tcp:34776:118"/>
+               <head>A Prayer for one that intends to be Con<g ref="char:EOLhyphen"/>firmed.</head>
+               <p>O Moſt Bleſſed God, by whoſe grace I was called into a ſtate of Salvation when I was Baptized, and from whom cometh every good thought, deſire, and purpoſe, which I have ſince felt in my heart; Aſſiſt me, I be<g ref="char:EOLhyphen"/>ſeech Thee, in the new dedication, which I am going to make of my ſelf unto Thee; whoſe I am,
+<pb n="225" facs="tcp:34776:118"/>and reſolve to be to the end of my days.</p>
+               <p>Fill me, O Lord, with ſuch a lively ſenſe of the honour Thou doeſt me in admitting me in<g ref="char:EOLhyphen"/>to thy Service; that I may give up my ſelf, not onely with the full, but with the moſt chear<g ref="char:EOLhyphen"/>full conſent of my heart, to believe and doe what<g ref="char:EOLhyphen"/>ſoever Thou wouldſt have me.</p>
+               <p>And then be pleaſed to confirm me in thy Grace, and to ſtreng<g ref="char:EOLhyphen"/>then me with might by thy Holy Spirit in the
+<pb n="226" facs="tcp:34776:119"/>inner man; that I may ever diſcern, and chuſe, and follow thoſe things which are acceptable in thy ſight.</p>
+               <p>Arm me, good Lord, againſt all the Tempta<g ref="char:EOLhyphen"/>tions of the World, the Fleſh, and the Devil; with a will ſtedfaſtly reſolved never to yield to any of them; but to perſiſt faithfully in the performance of my Vow, which was made in my name when I was baptized, and which I now intend with my own mouth to ratify
+<pb n="227" facs="tcp:34776:119"/>openly before <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Church. Whoſe devout Prayers I beſeech Thee to hear for me, through <hi>Jeſus Chriſt</hi> our Lord. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="prayer">
+               <head>A Prayer after Con<g ref="char:EOLhyphen"/>firmation.</head>
+               <p>ALmighty and ever<g ref="char:EOLhyphen"/>living God, who haſt vouchſafed to re<g ref="char:EOLhyphen"/>generate me by Water and the Holy Ghoſt; and alſo <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> farther certified me <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the hands of thy Miniſter lately laid on me, of
+<pb n="228" facs="tcp:34776:120"/>thy Favour and gra<g ref="char:EOLhyphen"/>cious Goodneſs towards me: Accept, I moſt humbly beſeech Thee, of my hearty thanks for ſuch great and unde<g ref="char:EOLhyphen"/>ſerved Benefits; and continue in me thoſe good thoughts, deſires and purpoſes which I found then in my heart, to perſiſt in faithfull O<g ref="char:EOLhyphen"/>bedience to Thee for ever.</p>
+               <p>For which end be pleaſed daily to impart unto me more and more of the Holy Spirit, to preſerve me in thy fear
+<pb n="229" facs="tcp:34776:120"/>and love; and to ina<g ref="char:EOLhyphen"/>ble me to doe all the reſt of my Duty, not onely towards Thee, but towards my Neighbour: Eſpecially to thoſe by whom, as thy Stewards, thy heavenly Myſteries are conveyed to us; that reverently atten<g ref="char:EOLhyphen"/>ding to their Inſtruc<g ref="char:EOLhyphen"/>tions, and receiving their godly Admoni<g ref="char:EOLhyphen"/>tions, and obediently following their Gui<g ref="char:EOLhyphen"/>dance and direction, I may be finally owned for one of thy good and faithfull Servants, at
+<pb n="210" facs="tcp:34776:121"/>that Day, when the great Shepherd and Bi<g ref="char:EOLhyphen"/>ſhop of our Souls ſhall appear again to our Sal<g ref="char:EOLhyphen"/>vation. To Him with Thee, O Father, and the Holy Ghoſt, be eter<g ref="char:EOLhyphen"/>nal praiſes. <hi>Amen.</hi>
+               </p>
+               <p>
+                  <hi>They that need Prayers for other par<g ref="char:EOLhyphen"/>ticular occaſions, may be furniſhed in a Book called the</hi> Devout Chri<g ref="char:EOLhyphen"/>ſtian, <hi>&amp;c.</hi>
+               </p>
+               <trailer>THE END.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="table_of_contents">
+            <pb facs="tcp:34776:121"/>
+            <head>The Contents.</head>
+            <list>
+               <item>
+                  <label>Chap. I.</label> Of the Duty. <hi>pag. 1.</hi>
+               </item>
+               <item>
+                  <label>Chap. II.</label> Of the Neceſſity of this Duty. <hi>p. 7.</hi>
+               </item>
+               <item>
+                  <label>Chap. III.</label> Of the Ends for which it was inſtituted. <hi>p. 14.</hi>
+               </item>
+               <item>
+                  <label>Chap. IV.</label> Of Preparation for it. <hi>p. 23.</hi>
+               </item>
+               <item>
+                  <label>Chap. V.</label> A Prayer for that mor<g ref="char:EOLhyphen"/>ning when you intend to receive. <hi>Which may be uſed any time before. p. 39.</hi>
+               </item>
+               <item>
+                  <label>Chap. VI.</label> The manner of Recei<g ref="char:EOLhyphen"/>ving. <hi>p. 46.</hi>
+               </item>
+               <item>
+                  <label>Chap. VII.</label> Meditations and Pray<g ref="char:EOLhyphen"/>ers afterward. <hi>p. 81.</hi>
+               </item>
+               <item>
+                  <label>Chap. VIII.</label> Directions for a godly Life, ſutable to this holy Commu<g ref="char:EOLhyphen"/>nion. <hi>p. 99.</hi>
+               </item>
+               <item>
+                  <label>Chap. IX.</label> Touching Doubts and Scruples. <hi>p. 114.</hi>
+               </item>
+               <item>
+                  <label>Chap. X.</label> Directions in caſe of fre<g ref="char:EOLhyphen"/>quent Relapſes into Sin. <hi>p. 127.</hi>
+               </item>
+               <item>
+                  <pb facs="tcp:34776:122"/>
+                  <label>Chap. XI.</label> The Duties of Children. <hi>p. 138.</hi>
+               </item>
+               <item>
+                  <label>Chap. XII.</label> The Dutier of Ser<g ref="char:EOLhyphen"/>vants. <hi>p. 147.</hi>
+               </item>
+               <item>
+                  <label>Chap. XIII.</label> Advices to all Young perſons. <hi>p. 158.</hi>
+               </item>
+               <item>
+                  <label>Chap. XIV.</label> Directions about them that cannot reade. <hi>p. 168.</hi>
+               </item>
+               <item>
+                  <label>Chap. XV.</label> Directions to thoſe that can reade. <hi>p. 179.</hi>
+               </item>
+               <item>
+                  <label>Chap. XVI.</label> A neceſſary qualifica<g ref="char:EOLhyphen"/>tion to receive benefit by all this. <hi>p. 203.</hi>
+               </item>
+               <item>A ſhort Prayer for the Morning. <hi>p. 213.</hi>
+               </item>
+               <item>A ſhort Prayer for the Evening. <hi>p. 216.</hi>
+               </item>
+               <item>A Prayer for one of riper years be<g ref="char:EOLhyphen"/>fore the receiving of Baptiſm. <hi>p. 221.</hi>
+               </item>
+               <item>A Prayer for one that intends to be Confirmed. <hi>p. 224.</hi>
+               </item>
+               <item>A Prayer after Confirmation. <hi>p. 227.</hi>
+               </item>
+            </list>
+            <trailer>The End.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
